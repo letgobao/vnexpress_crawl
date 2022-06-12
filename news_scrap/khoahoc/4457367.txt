@@ -1,0 +1,2 @@
+Title: Chuột quang học hoạt động thế nào
+Description: Chuột quang học sử dụng đèn LED và chip phát hiện ánh sáng phản xạ để xác định tốc độ và hướng di chuyển của con trỏ trên màn hình.
