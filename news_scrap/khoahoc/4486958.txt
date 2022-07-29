@@ -1,0 +1,10 @@
+Title: Thụy Sĩ xây hệ thống chở hàng tự động dưới lòng đất
+Keywords: Thụy Sĩ, tự động hóa, lái tự động, Công nghệ, Tin
+Description: Hệ thống chở hàng Cargo sous terrain sẽ vận chuyển hàng hóa qua mạng lưới dài 500 km bằng các phương tiện tự động.
+Create at: Thứ tư, 13/7/2022, 10:26 (GMT+7)
+Quốc hội Thụy Sĩ thông qua kế hoạch vận chuyển hàng hóa dưới lòng đất vào tháng 12 năm ngoái. Bắt đầu từ tháng 8/2022, chính phủ nước này có thể khởi công xây dựng hệ thống chở hàng Cargo sous terrain (CST). Đây là kết quả hợp tác giữa nhiều công ty Thụy Sĩ trong lĩnh vực giao thông, hậu cần, bán lẻ, viễn thông và năng lượng. CST sử dụng nguyên lý của hệ thống băng chuyền tự động để kết nối sản phẩm và trạm vận tải với trung tâm đô thị.
+Các trạm trong hệ thống trang bị thang thẳng đứng có thể tự động tải và lấy hàng hóa từ mạng lưới vận chuyển nằm hoàn toàn dưới lòng đất. Phụ trách vận chuyển hàng hóa trong hệ thống là những phương tiện chạy bằng động cơ điện di chuyển ở tốc độ 30 km/h. Hàng hóa được đặt trong kệ kê hàng hoặc container đã chỉnh sửa. Thực phẩm và hàng đông lạnh cũng có thể vận chuyển qua hệ thống này, sử dụng phương tiện tích hợp tủ lạnh.
+Quá trình phân phối hàng hóa sẽ được lên kế hoạch trước để đưa từ trạm vận tải tới kênh bán hàng và khách hàng. Những phương tiện dùng để chở hàng không chỉ thân thiện với môi trường mà còn chạy trên tuyến đường tiết kiệm năng lượng nhất.
+Được đề xuất lần đầu tiên vào năm 2016, CST có chi phí ước tính 3,5 tỷ USD cho mạng lưới 500 km trải dài từ St. Gallen ở đông bắc Thụy Sĩ tới Geneve ở tây nam ở thời điểm đó. Tuy nhiên, dự án khởi công vào ngày 1/8 chỉ bao gồm một đoạn ngắn 70 km giữa thành phố Härkingen-Niederbipp và Zurich, bao gồm 10 trạm kết nối và dự kiến hoàn thành năm 2031. Chi phí cho giai đoạn thử thí điểm này là 3 tỷ USD trong khi chi phí toàn bộ dự án tăng vọt lên 35 tỷ USD. Các nhà đầu tư trong dự án tin chắc hệ thống chạy bằng năng lượng tái tạo của họ sẽ giúp giảm đáng kể phương tiện chở hàng trên mặt đất vào năm 2045.
+Author: An Khang
+Source: Interesting Engineering

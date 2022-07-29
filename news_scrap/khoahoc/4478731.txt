@@ -1,0 +1,11 @@
+Title: Siêu máy tính có thể mô phỏng suy nghĩ của con người
+Keywords: siêu máy tính, mô phỏng suy nghĩ, bộ não, Công nghệ, Tin
+Description: Một nhóm nhà khoa học Trung Quốc phát triển siêu máy tính mới nhanh đến mức có thể chạy thành công mô hình trí tuệ nhân tạo phức tạp như bộ não người.
+Create at: Thứ năm, 23/6/2022, 07:46 (GMT+7)
+Các nhà nghiên cứu sử dụng Sunway để huấn luyện mô hình AI mang tên bagualu với 174 nghìn tỷ thông số, tương đương số lượng synapse (điểm tiếp hợp thần kinh) trong não bộ. Những ứng dụng tiềm năng bao gồm xe tự lái và nhận dạng gương mặt, xử lý ngôn ngữ tự nhiên, tầm nhìn vi tính, khoa học đời sống và hóa học. Nhóm nghiên cứu công bố kết quả tại hội nghị quốc tế Principles and Practice of Parallel Programming 2022 do Hiệp hội máy tính Mỹ tổ chức. Thành tựu này đưa siêu máy tính Sunway thế hệ mới nhất sánh ngang với Frontier, cỗ máy mới nhất do Bộ năng lượng Mỹ chế tạo đồng thời là siêu máy tính mạnh nhất thế giới hiện nay.
+Siêu máy tính Sunway có tốc độ xử lý một tỷ tỷ tác vụ mỗi giây và bao gồm hơn 37 triệu lõi CPU, nhiều gấp 4 lần Frontier. Sunway giống như một bộ não cực mạnh với bộ nhớ 9 petabyte tương đương hơn 2 triệu bộ phim chất lượng DVD và 96.000 hệ thống máy tính bán độc lập gọi là nút.
+Quá trình giao tiếp giữa các nút diễn ra ở tốc độ hơn 23 petabyte mỗi giây. Một nhà nghiên cứu cho biết khả năng tính toán song song của cỗ máy mô phỏng suy nghĩ của con người như khi "vừa ăn vừa xem TV". Bằng cách kết hợp công nghệ quan trọng như tối ưu hóa nút nội bộ cụ thể cho phần cứng và các chiến lược song song kết hợp ở quy mô chưa từng thấy trước đây, các nhà khoa học có thể đạt hiệu quả cao từ mô hình AI.
+Tương tự bản tiền nhiệm Sunway TaihuLight, cỗ máy mới sử dụng chip sản xuất trong nước giúp tiết kiệm năng lượng và băng tần rộng. Siêu máy tính TaihuLight do Trung tâm nghiên cứu công nghệ và kỹ thuật máy tính song song ở Vô Tích, Giang Tô, sản xuất đứng đầu danh sách 500 siêu mánh tính mạnh nhất từ năm 2016 đến năm 2018.
+Trung Quốc đã phát triển 3 siêu máy tính với khả năng thực hiện ít nhất một tỷ tỷ phép tính mỗi giây từ năm 2016. Các nhà nghiên cứu từng sử dụng siêu máy tính Tianhe để rà soát và phát hiện dược phẩm điều trị Covid-19. Ngoài ra, họ còn ứng dụng siêu máy tính trong lập mô hình khí quyển, động đất và mạch lượng tử.
+Author: An Khang
+Source: SCMP

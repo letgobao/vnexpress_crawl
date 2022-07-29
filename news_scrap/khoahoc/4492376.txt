@@ -1,0 +1,13 @@
+Title: Nguyên mẫu máy bay cất hạ cánh thẳng đứng tốc độ 450 km/h 
+Keywords: máy bay, cất hạ cánh thẳng đứng, Công nghệ, Tin
+Description: Công ty Canada hé lộ nguyên mẫu kích thước 50% của máy bay điện Cavorite X5, trang bị 16 cánh quạt nâng với những cánh xẻ độc đáo.
+Create at: Thứ tư, 27/7/2022, 19:00 (GMT+7)
+Horizon Aircraft, công ty kỹ thuật hàng không vũ trụ tại Toronto, hé lộ nguyên mẫu kích thước 50% của mẫu máy bay cất hạ cánh thẳng đứng chạy bằng điện Cavorite X5, 
+Với sải cánh 6,7 m và chiều dài thân 4,6 m, nguyên mẫu Cavorite X5 nặng khoảng 227 kg, hoàn toàn không phải một chiếc drone nhỏ. Máy bay này trang bị 16 cánh quạt nâng gắn trong các cánh dài và một cánh quạt đẩy duy nhất ở phía sau.
+Horizon Aircraft đã xin cấp bằng sáng chế cho thiết kế cánh độc đáo. Các cánh có phần vỏ xẻ giữa, có thể tách ra để lộ cánh quạt nâng cho hoạt động cất hạ cánh thẳng đứng, sau đó đóng kín lại khi bay tiến về phía trước, giúp giảm lực cản và cho phép Cavorite X5 bay nhanh hơn. Tốc độ tối đa của máy bay này dự kiến lên đến 450 km/h.
+Cavorite X5 trang bị hệ thống động cơ điện gồm pin lithium kết hợp với máy phát điện turbo, cho phép đạt phạm vi hoạt động lên đến khoảng 500 km. Tùy thuộc vào từng nhiệm vụ, máy phát điện turbo có thể chạy xuyên suốt chuyến bay hoặc chuyển sang "chế độ thì thầm" để cất hạ cánh yên tĩnh trong khu vực đô thị hoặc nơi cần "tàng hình", theo Brandon Robinson, nhà sáng lập Horizon Aircraft.
+Horizon Aircraft sẽ thực hiện các thử nghiệm một cách cẩn thận với nguyên mẫu Cavorite X5 trong thời gian tới. Đầu tiên là thử nghiệm trên mặt đất, tiếp theo là bay lơ lửng tại chỗ có dây buộc. Sau khi có giấy phép, Horizon Aircraft có thể tiến hành thử nghiệm bay lơ lửng không dây khoảng cuối tháng 8. Sau đó, họ sẽ thử nghiệm nguyên mẫu như một máy bay cánh cố định truyền thống, tiếp đến là nghiên cứu những vấn đề phức tạp liên quan tới việc chuyển đổi giữa chế độ bay tại chỗ và chế độ hành trình.
+Nguyên mẫu Cavorite X5 kích thước đầy đủ cũng đang được phát triển. Tuy nhiên, Horizon Aircraft sẽ cần kêu gọi thêm vốn để chế tạo máy bay này.
+Nhiều công ty trên thế giới đang phát triển eVTOL như một phương tiện di chuyển tiện lợi của tương lai. Tháng 1 năm nay, máy bay Joby S4 của công ty Mỹ Joby Aviation thực hiện chuyến bay thử nghiệm mà hãng này khẳng định là nhanh nhất từng ghi nhận với eVTOL, đạt tốc độ 330 km/h. Trong khi đó, máy bay 
+Author: Thu Thảo
+Source: New Atlas

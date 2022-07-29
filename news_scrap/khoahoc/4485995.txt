@@ -1,0 +1,11 @@
+Title: Boongke in 3D bảo vệ phi hành gia trên Mặt Trăng
+Keywords: NASA, phi hành gia, Mặt Trăng, Artemis, boongke, công nghệ in 3D
+Description: Công ty AI SpaceFactory thiết kế boongke in 3D trên Mặt Trăng có thể bảo vệ phi hành gia trước bức xạ, thiên thạch và động đất.
+Create at: Thứ hai, 11/7/2022, 00:00 (GMT+7)
+Căn cứ của AI SpaceFactory sẽ có mái vòm kiểu La Mã phủ hơn 2,5 m đất Mặt Trăng cùng với 3 cụm độc lập bao quanh sân chung. Mỗi cụm có diện tích 75 m2 trong khi khu vực trung tâm rộng 90 m2. Thiết kế vỏ ngoài in 3D cũng tích hợp cây quang điện để thu thập năng lượng mặt trời.
+Trong thập kỷ tới, nhiệm vụ Artemis của NASA sẽ đưa phi hành gia tới cực nam Mặt Trăng, khu vực nơi Mặt Trời thường xuyên chiếu sáng. Căn cứ LINA (Lunar Infrastructure Asset) sẽ được xây dựng bởi robot tự động gần miệng hố Shackleton. Đây là địa điểm ánh sáng chiếu tới gần như liên tục, cho phép tận dụng năng lượng mặt trời. Không chỉ vậy, phần bóng của thành hố cũng giúp thu thập nước băng thuận lợi.
+Theo nhóm thiết kế, với tuổi thọ ít nhất 50 năm, LINA có thể chứa robot tự hành có người lái điều áp như Phương tiện khám phá không gian, thiết bị viễn thông và các module sinh sống. Boongke Mặt Trăng sẽ được bao phủ bởi lớp đất mặt, cung cấp khả năng bảo vệ tối đa trước bức xạ Mặt Trời và vũ trụ, vi thiên thạch, hoạt động địa chấn như động đất và dao động nhiệt cực đoan. Thiết kế của LINA là kết quả cộng tác giữa AI SpaceFactory và NASA nhằm phát triển công nghệ xây dựng trên bề mặt Mặt Trăng trong khung thời gian của chương trình Artemis.
+Để xây dựng căn cứ, AI SpaceFactory đang phát triển một hệ thống in 3D có thể vận hành trong môi trường chân không với khoảng nhiệt độ từ -170 đến 70 độ C. Nguyên mẫu đầu tiên đang được thử nghiệm tại Trung tâm vũ trụ Kennedy trong buồng mô phỏng môi trường ở cực nam Mặt Trăng. AI SpaceFactory hy vọng công trình có thể hỗ trợ định cư dài hạn và du hành tới nhiều hành tinh khác.
+Sau nhiệm vụ Artemis 1 không người lái vòng quanh Mặt Trăng, nhiệm vụ Artemis 2 sẽ phóng vào tháng 5/2024 và bay tới Mặt Trăng mà không hạ cánh. Tiếp theo, nhiệm vụ Artemis 3 sẽ hạ cánh xuống bề mặt Mặt Trăng sớm nhất vào năm 2025. Đây sẽ là nhiệm vụ chở người tới Mặt Trăng đầu tiên sau hơn 50 năm, kể từ nhiệm vụ Apollo 17 vào tháng 12/1972.
+Author: An Khang
+Source: Mail

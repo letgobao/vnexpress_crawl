@@ -1,0 +1,14 @@
+Title: Tháp nhiệt mặt trời biến CO2 và nước thành nhiên liệu
+Keywords: CO2, tháp nhiệt, tháp nhiệt mặt trời, biến CO2 thành nhiên liệu, nhiên liệu hóa lỏng, Công nghệ, Tin
+Description: Viện Kỹ thuật liên bang Thụy Sĩ đang thử nghiệm một dự án sản xuất nhiên liệu sạch đầy hứa hẹn bằng công nghệ tập trung nhiệt mặt trời.
+Create at: Thứ sáu, 22/7/2022, 20:00 (GMT+7)
+Dự án thí điểm này hoạt động bằng cách sử dụng 169 tấm gương phản xạ - mỗi tấm có diện tích bề mặt 3 m2 - để chuyển hướng ánh nắng đến một lỗ rộng 16 cm trong lò phản ứng đặt trên đỉnh tháp trung tâm cao 15 m. Lò phản ứng này nhận được năng lượng trung bình khoảng 50 kW.
+Năng lượng sau đó được sử dụng để điều khiển chu trình oxy hóa khử-nhiệt hóa hai bước. Nước và carbon dioxide (CO2) tinh khiết được đưa vào phản ứng oxy hóa khử dựa trên nguyên tố cerium để chuyển đổi thành hydro và carbon monoxide (CO), hoặc khí tổng hợp. Vì tất cả đều được thực hiện trong một buồng duy nhất, nên tỷ lệ nước và CO2 có thể được điều chỉnh để quản lý chính xác thành phần của khí tổng hợp.
+Khí tổng hợp này cuối cùng được đưa đến buồng hóa lỏng khí (GtL) ở dưới cùng của tháp, tạo ra một hỗn hợp lỏng chứa 16% dầu hỏa và 40% dầu diesel, cùng một hỗn hợp sáp với 7% dầu hỏa và 40% dầu diesel.
+Các nhà nghiên cứu đã chạy hệ thống trong 9 ngày, với 6 - 8 chu kỳ một ngày tùy vào điều kiện thời tiết. Mỗi chu kỳ kéo dài trung bình 53 phút và tổng thời gian thí nghiệm là 55 giờ. Một số chu kỳ đã phải dừng lại do quá nóng, khi nhiệt độ trong lò phản ứng tăng quá mức mục tiêu 1.450°C đến nhiệt độ tới hạn là 1.500°C.
+Tổng cộng, hệ thống thí điểm đã sản xuất khoảng 5.191 lít khí tổng hợp trong 9 ngày đó. Để hình dùng về quy mô của hệ thống, một chiếc Boeing 787 Dreamliner có dung tích nhiên liệu lên tới 126.372 lít có thể bay 14.140 km, gần bằng khoảng cách từ New York đến Thành phố Hồ Chí Minh.
+Nhóm nghiên cứu cho biết hiệu suất tổng thể của hệ thống (được đo bằng hàm lượng năng lượng của khí tổng hợp theo tỷ lệ phần trăm của tổng năng lượng mặt trời đầu vào) mới chỉ đạt khoảng 4% trong quá trình triển khai này, nhưng họ tin rằng có thể tăng lên 20% bằng cách thu hồi, tái chế nhiều nhiệt hơn và làm thay đổi cấu trúc của cerium.
+"Chúng tôi là những người đầu tiên chứng minh toàn bộ chuỗi quy trình nhiệt hóa từ nước và CO2 đến dầu hỏa trong một hệ thống tháp năng lượng mặt trời tích hợp hoàn toàn", Giáo sư Aldo Steinfeld từ Viện Kỹ thuật liên bang Thụy Sĩ (ETH Zurich), tác giả chính của nghiên cứu, nhấn mạnh. "Tháp năng lượng mặt trời này được thiết lập phù hợp với việc triển khai công nghiệp, đặt ra một cột mốc công nghệ hướng tới sản xuất nhiên liệu hàng không bền vững".
+Chi tiết nghiên cứu đã được đăng trên tạp chí 
+Author: Đoàn Dương
+Source: Joule 

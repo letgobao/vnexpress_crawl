@@ -1,0 +1,14 @@
+Title: Phát hiện ngôi sao vận tốc 29 triệu km/h bay sát hố đen
+Keywords: ngôi sao, hố đen, quỹ đạo, dải Ngân Hà, Vũ trụ, Tin
+Description: Sao S4716 chỉ mất 4 năm để hoàn thành một vòng quỹ đạo quanh Sagittarius A* - hố đen siêu khối lượng với đường kính ước tính 23,5 triệu km.
+Create at: Thứ năm, 7/7/2022, 11:00 (GMT+7)
+Các nhà vật lý thiên văn phát hiện ngôi sao nhanh nhất từng ghi nhận đang bay quanh Sagittarius A* (Nhân Mã A*) - hố đen siêu khối lượng ở trung tâm dải Ngân Hà với đường kính ước tính 23,5 triệu km. Nghiên cứu mới xuất bản trên tạp chí 
+Ngôi sao mới được đặt tên là S4716, hoàn thành một vòng quỹ đạo quanh hố đen chỉ trong khoảng 4 năm. Điều này đồng nghĩa nó đang di chuyển với tốc độ cực nhanh, khoảng 29 triệu km/h hay 8.000 km mỗi giây.
+Khi bay theo quỹ đạo này, S4716 tới cách hố đen gần nhất là 100 AU (1 AU bằng khoảng 150 triệu km, xấp xỉ khoảng cách trung bình giữa Trái Đất và Mặt Trời). Khoảng cách này vẫn tương đối gần xét trong vũ trụ rộng lớn. Mặt Trời quay quanh Sagittarius A* ở khoảng cách lên tới 26.000 năm ánh sáng, mỗi năm ánh sáng tương đương với 9,5 nghìn tỷ km.
+S4716 nằm trong một nhóm sao dày đặc gọi là cụm sao S quay quanh trung tâm thiên hà và hố đen siêu khối lượng của dải Ngân Hà. Các sao trong cụm này đều di chuyển cực kỳ nhanh nhưng khác nhau về độ sáng và khối lượng.
+Việc phát hiện ngôi sao mới rất gần Sagittarius A* có thể thay đổi hiểu biết của con người về sự tiến hóa của dải Ngân Hà, đặc biệt là về các ngôi sao di chuyển nhanh ở khu vực trung tâm.
+"Quỹ đạo ngắn của S4716 khá khó hiểu. Các ngôi sao không thể hình thành dễ dàng gần hố đen. S4716 phải di chuyển vào trong, ví dụ bằng cách tiếp cận các ngôi sao và vật thể khác trong cụm S, khiến quỹ đạo của nó bị thu hẹp đáng kể", nhà vật lý thiên văn Michael Zajaček tại Đại học Masaryk (Cộng hòa Czech) cho biết.
+Florian Peissker, nhà vật lý thiên văn tại Đại học Cologne (Đức), là đồng tác giả của nghiên cứu mới. Bằng cách liên tục cải tiến các kỹ thuật phân tích và kết hợp với những hình ảnh theo dõi trong 20 năm, ông cùng đồng nghiệp đã xác nhận được chu kỳ quỹ đạo cực nhanh của S4716. Có 5 kính viễn vọng dùng để theo dõi S4716 gồm NIR2 và OSIRIS của Đài quan sát Keck, SINFONI, NACO và GRAVITY thuộc hệ thống Kính viễn vọng Rất Lớn. Chúng giúp cung cấp dữ liệu chi tiết về ngôi sao mới.
+"Việc một ngôi sao bay theo quỹ đạo ổn định gần và nhanh như vậy trong vùng lân cận của hố đen siêu khối lượng là điều hoàn toàn bất ngờ, cho thấy giới hạn có thể quan sát bằng kính viễn vọng truyền thống", Peissker cho biết.
+Author: Thu Thảo
+Source: Astrophysical Journal

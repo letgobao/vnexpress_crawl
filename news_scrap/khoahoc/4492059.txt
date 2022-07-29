@@ -1,0 +1,11 @@
+Title: Cấu trúc kim cương mới trong thiên thạch 50.000 năm
+Keywords: cấu trúc kim cương, tinh thể, thiên thạch, Anh, Nghiên cứu, Tin
+Description: Trong khi nghiên cứu kim cương bên trong thiên thạch cổ đại, các nhà khoa học đến từ Đại học London (UCL) phát hiện cấu trúc vi mô đan xen kỳ lạ chưa từng gặp.
+Create at: Thứ ba, 26/7/2022, 13:44 (GMT+7)
+Cấu trúc mới phát hiện là một dạng liên kết giữa graphite và kim cương, có nhiều đặc tính độc đáo, có thể sử dụng để phát triển thiết bị sạc siêu nhanh hoặc những đồ dùng điện tử trong tương lai. Nhóm nghiên cứu mô tả cấu trúc tinh thể kim cương trên tạp chí 
+Cấu trúc kim cương mới nằm bên trong thiên thạch Hẻm núi Diablo, đâm xuống Trái Đất cách đây 50.000 năm và được phát hiện lần đầu tiên ở Arizona, Mỹ, năm 1891. Kim cương trong thiên thạch này không phải loại quen thuộc với chúng ta. Phần lớn kim cương đã biết hình thành ở độ sâu 150 km bên dưới bề mặt Trái Đất, nơi nhiệt độ lên đến hơn 1.093 độ C. Nguyên tử carbon bên trong kim cương sắp xếp theo hình lập phương.
+Trái lại, kim cương bên trong thiên thạch Hẻm núi Diablo được gọi là lonsdaleite, đặt theo tên là tinh thể học người Anh Dame Kathleen Lonsdale, nữ giáo sư đầu tiên ở UCL, và có cấu trúc tinh thể lục giác. Dù giới khoa học đã tạo thành công lonsdaleite trong phòng thí nghiệm, trong tự nhiên nó chỉ hình thành khi tiểu hành tinh đâm vào Trái Đất ở tốc độ cực cao.
+Trong quá trình nghiên cứu lonsdaleite ở thiên thạch, nhà hóa học Christoph Salzmann ở UCL và cộng sự nhận thấy sự phát triển của một vật liệu dựa trên carbon khác là graphene, nằm xen kẽ với kim cương. Họ gọi kiểu kết hợp đó là diaphite. Bên trong thiên thạch, chúng tạo thành cấu trúc phân lớp thú vị, trong đó các lớp không thẳng hàng hoàn hảo. Việc tìm thấy diaphite trong thiên thạch có nghĩa vật liệu này có thể nằm trong nhiều dạng carbon, có tiềm năng sử dụng như một nguồn tài nguyên. Phát hiện cũng giúp nhóm nghiên cứu xác định nhiệt độ và áp suất cần thiết để tạo ra cấu trúc.
+Thông qua nghiên cứu, Salzmann và cộng sự cũng có thể tìm hiểu nhiều hơn về cách graphene hình thành và phương pháp sản xuất trong phòng thí nghiệm, từ đó thiết kế vật liệu vừa siêu cứng vừa dễ uốn, hoặc điều chỉnh đặc tính để chuyển từ chất dẫn điện thành chất cách điện.
+Author: An Khang
+Source: Proceedings of the National Academy of Sciences

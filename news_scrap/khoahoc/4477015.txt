@@ -1,0 +1,11 @@
+Title: Hệ thống giám sát toàn cảnh điện mặt trời 
+Keywords: điện mặt trời, năng lượng mặt trời, quang điện, năng lượng tái tạo, hệ thống giám sát điện mặt trời, Ứng dụng, Tin
+Description: Một hệ thống giám sát điện mặt trời có thể phản hồi sự cố trong một phần nghìn giây hôm 15/6 được đưa vào hoạt động ở Cam Túc.
+Create at: Thứ sáu, 17/6/2022, 11:53 (GMT+7)
+Hệ thống do Tập đoàn Huaneng của Trung Quốc phát triển được lắp đặt tại trại quang điện Xipo ở thành phố Kim Xương, tỉnh Cam Túc. Nó được thiết kế để theo dõi 24/24 tình trạng sức khỏe của thiết bị phát điện mặt trời trong thời gian thực, nhằm đảm bảo lưới điện vận hành an toàn và ổn định.
+Dựa trên nền tảng kỹ thuật số và chẩn đoán thông minh, hệ thống giám sát toàn cảnh có thể phản hồi sự cố hỏng hóc đột ngột trong một phần nghìn giây, giúp kiểm soát chính xác và linh hoạt nhà máy điện trong trường hợp khẩn cấp.
+Cam Túc hiện đứng đầu Trung Quốc về tốc độ tăng trưởng năng lượng mới. Công suất điện tái tạo đã đạt 31,55 triệu kilowatt, chiếm gần một nửa tổng công suất lắp đặt năng lượng của tỉnh. Mức tiêu thụ năng lượng mới tích lũy hiện nay là 197,8 tỷ kWh.
+Trung Quốc đang đẩy mạnh năng lượng tái tạo để hướng tới mục tiêu trung hòa carbon vào năm 2060. Nước này hiện là nhà sản xuất năng lượng tái tạo lớn nhất nhưng cũng là nguồn phát thải khí nhà kính lớn nhất thế giới.
+Theo một tài liệu được công bố vào hôm 1/6 về "kế hoạch 5 năm mới", Trung Quốc muốn tăng gấp đôi sản lượng điện gió và điện mặt trời vào năm 2025.
+Author: Đoàn Dương
+Source: Xinhua

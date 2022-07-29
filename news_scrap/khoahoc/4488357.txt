@@ -1,0 +1,15 @@
+Title: Chế tạo tâm thất của tim người trong phòng thí nghiệm
+Keywords: tâm thất, tim người, nhân tạo, phòng thí nghiệm, tế bào, Canada
+Description: Tâm thất nhân tạo sinh học chỉ dài một mm với đường kính 0,5 mm, có thể bơm máu với áp suất gần bằng 1/20 tim thật.
+Create at: Thứ bảy, 16/7/2022, 14:15 (GMT+7)
+Nhóm nghiên cứu tại Trung tâm Nghiên cứu và Ứng dụng Công nghệ Chất lỏng (CRAFT) phát triển mô hình nhân tạo sinh học của tâm thất trái (buồng tim giúp bơm máu mới chứa oxy vào động mạch chủ, từ đó đi đến những phần còn lại của cơ thể), sử dụng các tế bào tim sống, 
+"Cở sở vật chất độc đáo tại CRAFT cho phép chúng tôi tạo ra những mô hình nội tạng tinh vi. Với những mô hình này, chúng tôi có thể nghiên cứu chức năng tế bào, mô và các cơ quan mà không cần phẫu thuật xâm lấn hay thí nghiệm trên động vật. Chúng tôi cũng có thể sử dụng chúng để sàng lọc các phân tử thuốc tiềm năng và đánh giá tác động tích cực hoặc tiêu cực của chúng", Milica Radisic, giáo sư về kỹ thuật mô và tế bào, thành viên nhóm nghiên cứu, cho biết.
+Mô hình rất nhỏ, chỉ dài 1 mm với đường kính 0,5 mm. Nó có thể bơm máu với áp suất gần bằng 1/20 tim thật, đủ để bơm chất lỏng trong một lò phản ứng sinh học.
+"Mô hình của chúng tôi có ba lớp, nhưng tim thật có tới 11. Chúng tôi có thể thêm nhiều lớp hơn nhưng như vậy sẽ khiến oxy khó khuếch tán qua và các tế bào ở lớp giữa bắt đầu chết. Tim thật có các mạch máu để giải quyết vấn đề này. Vì vậy, chúng tôi cần tìm cách mô phỏng chúng", Sargol Okhovatian, nghiên cứu sinh tại CRAFT, thành viên nhóm nghiên cứu, giải thích.
+Nuôi cấy tế bào người trong đĩa petri dẹt khá dễ, nhưng ở không gian ba chiều, mọi thứ trở nên phức tạp hơn. Nhóm nghiên cứu phải tìm ra một số kỹ thuật mới để phát triển tâm thất tí hon. Sử dụng các polymer tương thích sinh học, họ xây những giàn giáo thu nhỏ để hỗ trợ tế bào phát triển theo một hướng nhất định. Sau đó, khi "gieo" các tế bào cơ tim vào những cấu trúc đặc biệt này, chúng sẽ phát triển cùng nhau để tạo thành mô.
+Trong trường hợp này, giàn giáo có hình dạng giống như một tấm phẳng gồm ba miếng lưới. Sau khoảng một tuần, tấm phẳng được cuộn quanh một trục polymer rỗng, tạo ra ống của tâm thất nhân tạo sinh học.
+Nhóm chuyên gia thậm chí có thể kiểm soát tốc độ đập của cơ tim tí hon bằng xung điện. "Với mô hình này, chúng tôi có thể đo thể tích tống máu - lượng chất lỏng bị đẩy ra mỗi khi tâm thất co bóp - cũng như áp suất của chất lỏng đó. Cả hai điều này gần như là không thể với các mô hình trước đây", Okhovatian cho biết.
+"Ước mơ của mọi kỹ sư mô là phát triển những cơ quan sẵn sàng để cấy ghép vào cơ thể người. Chúng ta vẫn còn nhiều năm nữa mới đạt được điều đó, nhưng tôi cho rằng tâm thất nhân tạo sinh học này là một bước đệm quan trọng", Okhovatian chia sẻ.
+Ngoài việc tạo ra mạch máu kỹ thuật sinh học cho tim nhân tạo, nhóm nghiên cứu hy vọng có thể tăng mật độ tế bào tim, nhờ đó cải thiện áp suất bơm máu. Họ cũng sẽ tìm cách giảm bớt hoặc loại bỏ giàn giáo cho tim nhân tạo trong tương lai.
+Author: Thu Thảo
+Source: IFL Science

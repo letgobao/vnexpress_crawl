@@ -1,0 +1,14 @@
+Title: Turbine khí đầu tiên trên thế giới chạy hoàn toàn bằng hydro 
+Keywords: Na Uy, turbine khí, khí tự nhiên, hydro, năng lượng sạch
+Description: Nhóm chuyên gia tại Đại học Stavanger tạo ra turbine khí chạy bằng hydro 100%, giúp tận dụng được cơ sở hạ tầng cũ, đồng thời không thải CO2.
+Create at: Chủ nhật, 12/6/2022, 19:00 (GMT+7)
+Turbine khí được sử dụng trong máy bay, tàu hỏa, tàu thủy, máy phát điện, máy bơm, máy nén và nhiều nơi khác. Chúng có thể chạy bằng nhiều loại nhiên liệu, nhưng khoảng 90% đang chạy bằng khí tự nhiên - loại nhiên liệu hóa thạch tạo ra CO2 khi cháy, đồng thời bay lên khí quyển khi được lấy lên khỏi lòng đất và tạo ra hiệu ứng nhà kính tồi tệ gấp 80 lần so với CO2 trong 20 năm.
+Trong cuộc đua hướng đến mục tiêu không phát thải vào năm 2050, con người cần thay đổi hoặc loại bỏ turbine khí. Một số công ty, bao gồm General Electric (GE), đang tìm cách chuyển đổi sang đốt hydro xanh như một nguồn nhiên liệu sạch. GE có hơn 100 turbine chạy bằng ít nhất 5% nhiên liệu hydro theo thể tích và đang hướng tới mục tiêu đạt 100%.
+Các nhà nghiên cứu tại Đại học Stavanger, Na Uy, tuyên bố họ đã tạo ra một turbine khí đốt 100% hydro từ giữa tháng 5 năm nay, 
+Đại học Stavanger vận hành một nhà máy điện khí nhỏ riêng và turbine khí của nhà máy tạo ra cả nhiệt lẫn điện. Nhà máy cũng cung cấp nước nóng để sưởi ấm các phòng thí nghiệm ở khu vực xung quanh. Lượng điện dư thừa sẽ được chuyển đến mạng lưới điện và nhiệt địa phương của nhà cung cấp điện Lyse. Toàn bộ năng lượng đều được sử dụng hiệu quả.
+"Chúng tôi đã lập kỷ lục thế giới về đốt cháy hydro trong turbine khí siêu nhỏ. Trước đây, chưa ai có thể sản xuất ở mức độ này", giáo sư Mohsen Assadi, trưởng nhóm nghiên cứu, cho biết. Ông cùng tiến sĩ Reyhaneh Banihabib, kỹ sư Magnus Wersland và Bjarte Hetlelid từ viện nghiên cứu NORCE đã vận hành thử nghiệm nhà máy. Họ chứng minh được rằng có thể sử dụng hydro trong các cơ sở hạ tầng sử dụng khí tự nhiên sẵn có.
+"Hiệu quả khi chạy turbine khí bằng hydro sẽ kém hơn một chút. Tuy nhiên, lợi ích lớn là tận dụng được cơ sở hạ tầng sẵn có. Ngoài ra, cách sản xuất năng lượng này không thải ra CO2", Assadi nói.
+Nghiên cứu mới không chỉ tập trung vào việc điều chỉnh buồng đốt cho hydro mà còn điều chỉnh hệ thống nhiên liệu và cơ sở hạ tầng khí tự nhiên cũ để xử lý loại khí rất khác này. Nhóm nghiên cứu đang xem xét kỹ hơn những hạn chế của nhà máy và tìm cách tăng công suất để tạo ra nhiều năng lượng sạch nhất có thể.
+Những dự án dạng này sẽ mang đến giải pháp chuyển đổi hiệu quả, vừa giúp duy trì các thiết bị turbine cũ, vừa chuyển sang nhiên liệu không phát thải. Tuy nhiên, để chúng trở nên hiệu quả về kinh tế, giá hydro xanh cần giảm mạnh và thuế carbon cần được áp dụng cho các phương pháp sử dụng nhiên liệu hóa thạch vốn rẻ hơn.
+Author: Thu Thảo 
+Source: New Atlas

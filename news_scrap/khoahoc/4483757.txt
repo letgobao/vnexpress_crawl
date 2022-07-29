@@ -1,0 +1,15 @@
+Title: Pin cát đầu tiên trên thế giới
+Keywords: năng lượng xanh, pin, điện mặt trời, điện gió, đầu tiên trên thế giới, Công nghệ, Tin
+Description: Công ty Phần Lan lắp đặt hệ thống pin có thành phần chính là khoảng 100 tấn cát, giúp tích trữ năng lượng xanh dưới dạng nhiệt trong nhiều tháng.
+Create at: Thứ ba, 5/7/2022, 13:00 (GMT+7)
+Nhóm kỹ sư trẻ của công ty Polar Night Energy hoàn thành việc lắp đặt thương mại "pin cát" hoạt động đầy đủ chức năng đầu tiên trên thế giới tại thị trấn Kankaanpää, Phần Lan, 
+Biến đổi khí hậu và giá nhiên liệu hóa thạch tăng khiến nhiều tổ chức và công ty đầu tư vào sản xuất năng lượng tái tạo. Các tấm pin mặt trời và turbine gió có thể nhanh chóng được lắp đặt và đóng góp vào lưới điện, nhưng chúng cũng mang đến những thách thức to lớn.
+Vấn đề khó nhất là sự gián đoạn - làm thế nào để duy trì điện khi mặt trời không chiếu sáng và gió không thổi? Ngoài ra, việc bổ sung nhiều năng lượng tái tạo vào lưới điện cũng cần đi cùng với các giải pháp cân bằng mạng lưới, vì điện quá nhiều hoặc quá ít đều có thể dẫn đến hậu quả xấu.
+Một cách khắc phục hiệu quả cho những vấn đề này là hệ thống pin quy mô lớn với khả năng lưu trữ và cân bằng nhu cầu năng lượng. Hiện tại, đa số pin được sản xuất bằng lithium và rất đắt với kích thước lớn, hơn nữa cũng chỉ xử lý được một lượng nhỏ điện dư thừa.
+Pin cát có thể tích trữ năng lượng xanh suốt nhiều tháng. Thành phần then chốt của thiết bị này là khoảng 100 tấn cát chất đống bên trong một silo (tháp tròn, cao thường dùng để chứa ngũ cốc hay thức ăn cho động vật chăn nuôi).
+Pin hoạt động như sau: Điện dư thừa giá rẻ làm cát nóng lên đến 500 độ C bằng cách gia nhiệt điện trở. Quá trình này tạo ra không khí nóng luân chuyển trong cát nhờ thiết bị trao đổi nhiệt. Cát là môi trường lưu trữ nhiệt rất hiệu quả, ít thất thoát theo thời gian. Nhóm phát triển cho biết, thiết bị của họ có thể giữ cát ở mức 500 độ C trong vài tháng.
+Khi cần, pin xả ra không khí nóng, làm ấm nước cho hệ thống sưởi của khu vực. Nước sau đó được bơm đến những ngôi nhà, văn phòng, thậm chí cả hồ bơi. Phương pháp này giúp giải quyết mối lo ngại về nguồn nhiệt trong mùa đông lạnh giá kéo dài ở Phần Lan.
+Một trong những thách thức lớn hiện nay với Polar Night Energy là liệu công nghệ pin cát có thể mở rộng quy mô để thực sự làm nên sự khác biệt và liệu các nhà phát triển có thể sử dụng nó để tạo ra điện cũng như nhiệt hay không?
+Các chuyên gia nhận thấy hiệu suất giảm đáng kể khi cát được sử dụng chỉ để trả lại điện tích trữ cho lưới điện. Tuy nhiên, việc lưu trữ năng lượng xanh dưới dạng nhiệt trong thời gian dài mang đến lợi ích lớn cho công nghiệp, khi hầu hết nhiệt dùng cho thực phẩm, đồ uống, dệt may và dược phẩm đến từ việc đốt nhiên liệu hóa thạch.
+Author: Thu Thảo
+Source: BBC

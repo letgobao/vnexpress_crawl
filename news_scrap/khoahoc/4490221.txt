@@ -1,0 +1,11 @@
+Title: Lò phản ứng nhiệt hạch nóng gấp 5 lần lõi Mặt Trời
+Keywords: lò phản ứng, phản ứng nhiệt hạch, plasma, Mỹ, Công nghệ, Tin
+Description: Các nhà vật lý plasma đã đạt được nhiệt độ gần 75 triệu độ C ở lò phản ứng nhiệt hạch Norman tại California, vượt xa độ nóng khoảng 15 triệu độ C của lõi Mặt Trời.
+Create at: Thứ năm, 21/7/2022, 20:00 (GMT+7)
+Lò Norman được vận hành bởi nhóm nhà khoa học đến từ công ty TAE Technologies. Ra mắt vào năm 2017 và ban đầu được thiết kế để duy trì plasma ổn định ở 30 triệu độ C, lò Norman đã trải qua nhiều cải tiến từ sau đó, 
+Phản ứng nhiệt hạch là quá trình hợp nhất hai hạt nhân nguyên tử, tạo ra một hạt nhân nặng hơn cùng với năng lượng. Đây cũng là quá trình cung cấp năng lượng cho Mặt Trời, nơi các nguyên tử hydro hợp nhất thành nguyên tử heli dưới nhiệt độ và áp suất cực hạn. Trong nhiều thập kỷ, giới nghiên cứu đã tìm cách tái tạo quá trình này trên Trái Đất do tiềm năng cung cấp nguồn năng lượng không thải khí nhà kính và tạo ra ít chất thải phóng xạ hơn. Trở ngại chính mà họ chưa thể vượt qua là duy trì phản ứng nhiệt hạch đủ lâu để sản xuất nhiều năng lượng hơn mức tiêu hao.
+TAE Technologies được thành lập vào năm 1998 với mục đích phát triển năng lượng nhiệt hạch ở quy mô thương mại. Lò phản ứng Norman của công ty hoạt động thông qua làm nóng khí hydro tới nhiệt độ cao đến mức khiến hydro chuyển thành plasma, một dạng vật chất gồm ion mang điện tích dương và electron mang điện tích âm. Hệ thống bắn hai đám mây plasma hydro vào buồng phản ứng trung tâm, nơi chúng được cố định bởi nam châm, nung nóng và ổn định hóa.
+Dù vẫn đòi hỏi nam châm mạnh, TAE cho biết phương pháp của họ rất tối ưu do sử dụng nhiên liệu hydro - boron giúp tăng tối đa tuổi thọ của lò phản ứng. Cỗ máy có kích thước khổng lồ, dài 24 m, cao 6,7 m và nặng khoảng 27 tấn. Lò Norman tiêu thụ 750 megawatt điện mỗi lần vận hành, tương đương một nhà máy điện quy mô nhỏ. Google tham gia vào dự án năm 2014 nhằm ứng dụng khoa học dữ liệu và học máy cho nghiên cứu cũng như cung cấp vốn đầu tư.
+TAE thông báo về đột phá nhiệt độ mới sau khi kết thúc vòng gọi vốn 250 triệu USD. Hiện nay, công ty đang phát triển mẫu lò phản ứng nhiệt hạch tiếp theo mang tên Copernicus.
+Author: An Khang
+Source: Newsweek

@@ -1,0 +1,13 @@
+Title: Đội quân robot biến hình tí hon giúp xỉa răng
+Keywords: Mỹ, robot, đánh răng, vệ sinh răng miệng, công nghệ nano, Công nghệ, Tin
+Description: Hệ thống robot siêu nhỏ làm từ các hạt oxit sắt có thể thay đổi hình dạng theo kiểu dáng răng, giúp làm sạch răng hiệu quả hơn.
+Create at: Thứ hai, 11/7/2022, 11:05 (GMT+7)
+Các kỹ sư tại Đại học Pennsylvania phát triển một hệ thống robot tí hon có thể thay đổi hình dạng để tạo thành những sợi lông cứng hoặc chỉ nha khoa. Chúng không chỉ giúp làm sạch mảng bám mà còn tiết ra chất kháng khuẩn để tiêu diệt vi khuẩn gây hại. Nghiên cứu mới xuất bản trên tạp chí 
+Đánh răng và dùng chỉ nha khoa mỗi ngày có thể gây phiền phức. Những người thực hiện việc này đều đặn vẫn có thể bỏ sót một số vị trí trong miệng. Một lý do là bàn chải đánh răng không thể điều chỉnh theo sự khác biệt về hình dạng hoặc khoảng cách răng của từng người.
+Hệ thống robot mới giải quyết vấn đề này bằng cách "biến hình". Robot gồm các hạt nano oxit sắt, có thể tập hợp thành những hình dạng khác nhau và điều khiển bằng từ trường. Nhờ đó, các hạt có thể được sắp xếp thành hình dạng giống lông bàn chải để cọ sạch mảng bám trên bề mặt răng, hoặc những sợi nhỏ hơn như chỉ nha khoa để lách vào kẽ răng.
+Đội quân robot siêu nhỏ không chỉ làm sạch răng một cách cơ học. Oxit sắt có thể kích hoạt hydrogen peroxide, dẫn đến phản ứng tạo ra các gốc tự do tiêu diệt vi khuẩn và màng sinh học dính nhớp mà chúng để lại trên răng.
+Đầu tiên, nhóm nghiên cứu thử nghiệm hệ thống mới trên một tấm phẳng bằng vật liệu nhân tạo giống răng để theo dõi chuyển động của các robot. Sau đó, họ chuyển sang điều khiển chúng trên mô hình răng in 3D. Cuối cùng, các robot tí hon được thử nghiệm trên những chiếc răng người thật gắn trong một thiết bị chuyên dụng với cách sắp xếp giống như trong miệng.
+Các thử nghiệm cho thấy hệ thống robot có thể loại bỏ mảng bám và màng sinh học hiệu quả, giảm lượng vi khuẩn gây bệnh xuống dưới mức phát hiện được. Nhóm nghiên cứu cũng có thể kiểm soát chính xác độ cứng và chiều dài của sợi lông bằng cách điều chỉnh từ trường, giúp các đầu lông đủ cứng để làm sạch răng nhưng vẫn đủ mềm để không gây tổn thương nướu.
+Khả năng tùy chỉnh của hệ thống robot tí hon giúp làm sạch răng của mọi người hiệu quả hơn, nhóm nghiên cứu nhận định. Bên cạnh đó, vì không cần dùng tay nên hệ thống sẽ cho phép người bị suy giảm kỹ năng vận động vẫn có thể chăm sóc sức khỏe răng miệng cho mình.
+Author: Thu Thảo 
+Source: ACS Nano

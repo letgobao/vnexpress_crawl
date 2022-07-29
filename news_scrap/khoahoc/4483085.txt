@@ -1,0 +1,14 @@
+Title: Robot cá 'ăn' vi nhựa trên biển
+Keywords: robot cá, vi nhựa, ô nhiễm biển, Trung Quốc, Công nghệ, Tin
+Description: Robot cá dài 1,3 cm bơi với tốc độ nhanh nhờ laser cận hồng ngoại, có thể giúp giải quyết tình trạng ô nhiễm biển trong tương lai.
+Create at: Thứ hai, 4/7/2022, 15:55 (GMT+7)
+Các nhà khoa học tại Đại học Tứ Xuyên phát triển robot cá có thể bơi xung quanh để hút vi nhựa khỏi nước, thậm chí có thể tự chữa lành khi bị hư hại, 
+Hiện robot mềm này chỉ có thể thu thập vi nhựa ở vùng nước nông. Tuy nhiên, Wang Yuyan, một trong những tác giả chính của nghiên cứu, cho biết, họ đang nghiên cứu vật liệu mới có thể hoạt động dưới nước và phát hiện vi nhựa theo thời gian thực, giúp ngăn chặn sự ô nhiễm trong tương lai.
+"Để làm rõ hơn sự nguy hiểm của các chất ô nhiễm vi nhựa, chúng tôi tin rằng việc phát triển một robot thu thập mẫu vật siêu nhỏ với khả năng thu thập chính xác các chất ô nhiễm vi nhựa độc hại này trong môi trường nước là rất quan trọng", Wang nói.
+"Trong tương lai, chúng tôi hy vọng có thể trực tiếp thả những con cá robot này xuống biển, trực tiếp thu thập và phân tích thành phần vi nhựa trong đại dương, sau đó hướng dẫn cách xử lý và sản xuất các sản phẩm nhựa để ngăn chặn việc tạo ra vi nhựa ngay từ nguồn", ông bổ sung.
+Vi nhựa là những mảnh nhựa nhỏ hơn 5 mm. Nhiều sinh vật biển có thể ăn phải chúng và chịu ảnh hưởng xấu về sức khỏe. Đại học Kyushu (Nhật Bản) năm 2021 ước tính, có 24,4 nghìn tỷ mảnh vi nhựa các loại ở tầng trên của đại dương, tương đương với cân nặng của khoảng 30 tỷ chai nước 500 ml làm bằng nhựa. Tuy nhiên, số lượng thực tế có thể còn lớn hơn nhiều.
+Cá robot của Đại học Tứ Xuyên dài khoảng 1,3 cm và chuyển động nhờ laser cận hồng ngoại làm biến dạng vật liệu ở phần đuôi. Robot có thể bơi được quãng đường bằng 2,67 chiều dài cơ thể mỗi giây - nhanh hơn hầu hết các robot mềm nhân tạo, theo nhóm nghiên cứu. Robot làm từ nhiều lớp gồm các tấm nano của một hỗn hợp hóa học, trong đó có graphene. Cấu trúc này giúp vật liệu trở nên dễ uốn và bền hơn.
+Nhóm nghiên cứu cho biết, một số thành phần trong vi nhựa có liên kết hóa học rắn và tương tác tĩnh điện với vật liệu của cá robot nên nó có thể hút vi nhựa xung quanh rồi đưa chúng đến nơi được chỉ định. Vật liệu nanocomposite trong robot có hiệu suất tự phục hồi lên đến 89%. Do đó, robot có thể hấp thụ các chất ô nhiễm, khôi phục độ bền và chức năng của mình kể cả khi bị hư hại.
+Tiếp theo, nhóm nhà khoa học dự định thử nghiệm xem robot cá có thể hoạt động ở độ sâu lớn hơn để xử lý vi nhựa dưới vùng biển sâu hay không.
+Author: Thu Thảo
+Source: SCMP

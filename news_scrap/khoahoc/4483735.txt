@@ -1,0 +1,18 @@
+Title: Máy gia tốc hạt lớn sắp đạt mức năng lượng chưa từng có
+Keywords: gia tốc hạt, máy gia tốc hạt lớn, Large Hadron Collider, va chạm proton, hạt boson Higgs, Công nghệ, Tin
+Description: Máy gia tốc hạt mạnh nhất thế giới Large Hadron Collider chuẩn bị cho lần chạy tiếp theo sau ba năm tạm dừng hoạt động để nâng cấp.
+Create at: Thứ ba, 5/7/2022, 16:00 (GMT+7)
+Trong một cuộc họp báo vào tuần trước, Tổ chức Nghiên cứu Hạt nhân châu Âu (CERN) cho biết Máy gia tốc Hạt Lớn (Large Hadron Collider, hay LHC) đang chuẩn bị cho lần chạy thứ ba kéo dài gần 4 năm với mức năng lượng kỷ lục 13,6 nghìn tỷ electronvolt (eV).
+Nó sẽ gửi hai chùm proton - các hạt trong hạt nhân của nguyên tử - theo các hướng ngược nhau, với tốc độ gần bằng tốc độ ánh sáng, xung quanh một đường ống hình tròn dài 27 km bị chôn vùi ở độ 100 m bên dưới biên giới Thụy Sĩ-Pháp.
+Kết quả của các vụ va chạm sẽ được ghi lại và phân tích bởi hàng nghìn nhà khoa học như một phần của một loạt các thí nghiệm, bao gồm ATLAS, CMS, ALICE và LHCb, nhằm tăng cường khả năng thăm dò vật chất tối, năng lượng tối và khám phá những bí ẩn cơ bản khác của vũ trụ.
+"Chúng tôi đặt mục tiêu tạo ra 1,6 tỷ vụ va chạm proton-proton mỗi giây", Mike Lamont, trưởng bộ phận máy gia tốc và công nghệ của CERN, nói với 
+Lúc này, xung quanh chùm proton sẽ bị thu hẹp xuống dưới 10 micron để tăng tốc độ va chạm. Để so sánh, một sợi tóc người dày khoảng 70 micron. Tốc độ năng lượng mới sẽ cho phép CERN nghiên cứu sâu hơn về hạt boson Higgs - một loại hạt cơ bản trong mô hình chuẩn của ngành vật lý mà LHC lần đầu phát hiện vào ngày 4/7/2012.
+Tổng giám đốc CERN Fabiola Gianotti, người lần đầu tiên công bố phát hiện boson Higgs cách đây một thập kỷ, nhấn mạnh rằng loại hạt này có liên quan đến một số câu hỏi mở sâu sắc nhất trong vật lý cơ bản ngày nay.
+So với lần chạy đầu tiên khi LHC phát hiện ra hạt Higgs, lần chạy mới sẽ có số lần va chạm nhiều hơn 20 lần. "Đây là một sự gia tăng đáng kể, mở đường cho những khám phá mới", Lamont chia sẻ.
+Joachim Mnich, trưởng bộ phận nghiên cứu và máy tính của CERN, cho biết thêm rằng vẫn còn nhiều điều cần tìm hiểu về hạt boson.
+Các thí nghiệm trong quá khứ đã xác định khối lượng của hạt boson Higgs, nhưng Gian Giudice, người đứng đầu bộ phận vật lý lý thuyết của CERN, nói rằng việc quan sát các hạt chỉ là một phần của công việc.
+"Vật lý hạt không chỉ đơn giản là trả lời câu hỏi như thế nào, mà mục tiêu của chúng tôi là hiểu được lý do tại sao", Giudice nói thêm.
+Sau lần chạy thứ ba này, LHC sẽ tạm nghỉ một thời gian trước khi quay trở lại hoạt động vào năm 2029 với tên gọi mới là Máy gia tốc LHC độ sáng cao, tăng số lượng các sự kiện có thể phát hiện được lên con số 10.
+Ngoài ra, các nhà khoa học đang lên kế hoạch phát triển một cỗ máy mới có tên là Máy gia tốc Hình tròn Tương lai - một đường ống hình tròn dài 100 km với mức năng lượng khổng lồ lên tới 100 nghìn tỷ eV.
+Author: Đoàn Dương
+Source: AFP

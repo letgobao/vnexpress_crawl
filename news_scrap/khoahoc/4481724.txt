@@ -1,0 +1,13 @@
+Title: Trung Quốc xây kính viễn vọng khổng lồ theo dõi gió Mặt Trời
+Keywords: Trung Quốc, kính viễn vọng, gió Mặt Trời
+Description: Kính viễn vọng 9 triệu USD dự kiến hoạt động vào năm tới, giúp bảo vệ lưới điện, các vệ tinh và phi hành gia khỏi gió Mặt Trời.
+Create at: Thứ tư, 29/6/2022, 19:00 (GMT+7)
+Trung Quốc bắt đầu xây dựng kính viễn vọng nhấp nháy liên hành tinh (IPS) Mingantu ở Nội Mông, 
+Gió Mặt Trời là dòng hạt mang điện phóng ra từ khí quyển ngôi sao này. Khi quét qua hệ Mặt Trời với tốc độ hàng trăm km mỗi giây, chúng cũng tương tác với từ trường Trái Đất. Điều này tạo ra cực quang rực rỡ trên bầu trời, nhưng cũng có thể gây ra những cơn bão địa từ ảnh hưởng đến hệ thống liên lạc và lưới điện. Tháng 2, một cơn bão như vậy đã phá hỏng 40 vệ tinh Starlink của SpaceX.
+Có nhiều cách để nghiên cứu gió Mặt Trời, ví dụ như phóng tàu vũ trụ tới gần ngôi sao này, theo nhà thiên văn vô tuyến Chen Linjie tại Đài quan sát Thiên văn Quốc gia Trung Quốc ở Bắc Kinh, thành viên nhóm phát triển kính viễn vọng Mingantu IPS. Tuy nhiên, kính viễn vọng dưới mặt đất cũng rất hữu ích và đỡ tốn kém hơn. Kính viễn vọng IPS đã được chế tạo ở nhiều nơi trên thế giới từ những năm 1970, bao gồm Ấn Độ, Nhật Bản, Mexico.
+Mingantu IPS sẽ theo dõi hiện tượng nhấp nháy liên hành tinh - sự dao động ngẫu nhiên của các tín hiệu vô tuyến từ không gian sâu khi chúng đi xuyên qua gió Mặt Trời về phía Trái Đất.
+"Điều này tương tự như khi bạn nhìn ngắm những ngôi sao nhấp nháy trên bầu trời đêm. Mắt bạn sẽ thu nhận những sóng quang học bị khí quyển Trái Đất phân tán. Kính viễn vọng của chúng tôi thu nhận sóng vô tuyến bị gió Mặt Trời phân tán", Chen giải thích. Bằng cách đo sóng vô tuyến, các nhà khoa học có thể tái tạo cấu trúc 3D của gió Mặt Trời như vận tốc, mật độ và các thông số quan trọng khác.
+Kính viễn vọng Mingantu IPS trị giá 9 triệu USD, được đặt tên theo một nhà thiên văn học Mông Cổ thế kỷ 18. Công trình sẽ có ba ăng-ten hình trụ xoay, mỗi chiếc dài 140 m và rộng 40 m, có thể quan sát hàng nghìn nguồn vô tuyến khi bắt đầu hoạt động vào năm tới. Nó cũng sẽ kết hợp với hai kính viễn vọng nhỏ hơn gần đó để tạo thành một mạng lưới tam giác, giúp tăng độ chính xác khi quan sát.
+Mingantu IPS dự kiến lắp ráp xong vào tháng 8 và bắt đầu căn chỉnh vào tháng 9. "Chúng tôi chưa từng chế tạo ăng-ten hình trụ lớn như vậy nên đây sẽ là một thách thức", Chen nói. Địa điểm lắp đặt kính viễn vọng là một góc xa xôi ở phía bắc sa mạc Gobi. Các nhà thiên văn lựa chọn nơi này từ khoảng 15 năm trước vì dân cư thưa thớt và có núi bao quanh, giúp tránh nhiễu sóng vô tuyến.
+Author: Thu Thảo
+Source: SCMP

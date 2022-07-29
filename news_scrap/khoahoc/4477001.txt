@@ -1,0 +1,14 @@
+Title: Turbine gió chịu bão lấy cảm hứng từ cây cọ
+Keywords: turbine gió, cây cọ, cánh quạt, năng lượng sạch, Mỹ, Công nghệ, Tin
+Description: Nhóm nghiên cứu tại Đại học Colorado Boulder phát triển mẫu turbine gió chịu được gió bão, đồng thời tiết kiệm vật liệu và chi phí.
+Create at: Thứ hai, 20/6/2022, 15:51 (GMT+7)
+Pin năng lượng mặt trời có thời gian ngừng hoạt động nhất định mỗi ngày. Tuy nhiên, turbine gió có thể hoạt động suốt ngày đêm để tạo ra năng lượng sạch. Các trang trại điện gió ngoài khơi có thể giúp giải quyết lo ngại về việc thiếu đất, đồng thời khai thác tiềm năng sản xuất điện lớn từ những cơn gió mạnh trên biển. Các quốc gia ở hai bên biển Bắc đang xây dựng những trang trại điện gió ngoài khơi ngày càng lớn hơn mỗi năm.
+Tuy nhiên, trang trại điện gió trên biển cũng đối mặt với nhiều thách thức, trong đó có những trận bão. Lucy Pao cùng các đồng nghiệp tại Đại học Colorado Boulder quan sát cây cọ để tìm hiểu cách chúng đối phó với những cơn gió tốc độ cao, 
+Các turbine với rotor (bộ phận quay của turbine) ngược chiều gió truyền thống phải đối mặt với gió thổi vào, và để các cánh quạt không bị thổi đập vào cột trụ, chúng phải đủ cứng. Cần rất nhiều vật liệu để chế tạo những cánh quạt tương đối dày và lớn này, khiến chi phí tăng lên.
+Tuy nhiên, các cánh turbine của rotor xuôi chiều gió không đối mặt với gió nên ít có nguy cơ va vào cột trụ khi gió lớn. Rotor xuôi chiều gió có trọng lượng nhẹ hơn và cần ít vật liệu để chế tạo hơn. Do đó, chúng cũng tiết kiệm chi phí, linh hoạt và có thể uốn cong khi đối mặt với gió mạnh mà không gãy, giống như những cây cọ.
+Để thử nghiệm ý tưởng của mình, nhóm nghiên cứu hợp tác với Phòng thí nghiệm Năng lượng Tái tạo Quốc gia (NREL) và các trường đại học khác của Mỹ cùng phát triển rotor SUMR. Trong 4 năm qua, họ đã kiểm tra dữ liệu thực tế của turbine gió hai cánh quạt 53,38 kW mang tên SUMR-D và nhận thấy nó hoạt động ổn định, hiệu quả.
+Nhóm nghiên cứu cũng tiến hành một số cải tiến với bộ điều khiển turbine - bộ phận xác định khi nào cần sản xuất điện và khi nào thì ngắt do những cơn gió tốc độ cao có thể vượt quá khả năng sản xuất điện của turbine, gây quá tải hệ thống.
+Các turbine gió được trang bị phần mềm giúp động cơ điều khiển nắm được cần làm gì để sản xuất điện với hiệu quả tối đa. Thông qua thử nghiệm rộng rãi, các nhà nghiên cứu nhận thấy tốc độ tối đa của máy phát điện thấp hơn ngưỡng của bộ điều khiển để giữ cho turbine hoạt động. Điều này có thể giúp nâng cao hiệu quả sản xuất điện trong tương lai.
+SUMR-D có thiết kế turbine hai cánh, nhưng kết quả nghiên cứu cũng có thể áp dụng cho turbine 3 cánh phổ biến hiện nay. Nhóm nghiên cứu đã bắt đầu việc xây dựng mô hình cho các turbine gió xuôi chiều quy mô lớn với khả năng sản xuất 25 MW, thậm chí 50 MW điện trong tương lai. Giai đoạn tiếp theo của nghiên cứu sẽ là thử nghiệm và vượt qua các trận bão.
+Author: Thu Thảo
+Source: Interesting Engineering 

@@ -1,0 +1,11 @@
+Title: NASA tài trợ phát triển hệ thống hạt nhân trên Mặt Trăng
+Keywords: Mặt Trăng, hạt nhân, điện hạt nhân, năng lượng hạt nhân, NASA, Artemis, Vũ trụ, Tin
+Description: NASA hôm 21/6 cho biết sẽ trao hợp đồng cho ba nhóm phát triển năng lượng hạt nhân để hỗ trợ chương trình thám hiểm Mặt Trăng Artemis.
+Create at: Thứ sáu, 24/6/2022, 13:00 (GMT+7)
+Cơ quan Hàng không Vũ trụ Mỹ (NASA) và Bộ Năng lượng Mỹ (DOE) đang làm việc cùng nhau để cải tiến công nghệ hạt nhân không gian. Họ đã lựa chọn ba đề xuất ý tưởng thiết kế cho một hệ thống năng lượng phân hạch có thể sẵn sàng khởi động vào cuối thập kỷ để hỗ trợ các chương trình thám hiểm Mặt Trăng Artemis.
+NASA cũng coi những hợp đồng này, trị giá 5 triệu USD mỗi hợp đồng, có thể hữu ích cho việc khám phá sao Hỏa và các điểm đến không gian sâu hơn. Đây mới là các hợp đồng Giai đoạn 1. NASA không nêu rõ trong thông cáo báo chí về lịch trình cho hợp đồng Giai đoạn 2, nếu đó thực sự là một phần của kế hoạch.
+Ba nhóm được lựa chọn do công ty Lockheed Martin, tập đoàn Westinghouse và IX (liên doanh của Intuitive Machines và X-Energy) dẫn đầu. Mục tiêu của họ trong 12 tháng tới là phát triển các ý tưởng thiết kế sơ bộ cho hệ thống điện phân hạch loại 40 kilowatt có tuổi thọ kéo dài ít nhất 10 năm trong môi trường Mặt Trăng.
+Hệ thống yêu cầu phải tương đối nhỏ nhẹ, đáng tin cậy và có thể cung cấp điện liên tục ở bất kể vị trí, ánh sáng mặt trời sẵn có và các điều kiện môi trường tự nhiên khác. Việc trình diễn các hệ thống như vậy sẽ mở đường cho các sứ mệnh dài hạn trên Mặt Trăng và sao Hỏa.
+"Dự án năng lượng bề mặt phân hạch là bước đầu tiên rất khả thi để Mỹ thiết lập năng lượng hạt nhân trên Mặt Trăng. Tôi mong chờ được thấy những gì mỗi nhóm sẽ đạt được", John Wagner, Giám đốc Phòng thí nghiệm Quốc gia Idaho thuộc DOE, chia sẻ.
+Author: Đoàn Dương 
+Source: NASA/Space

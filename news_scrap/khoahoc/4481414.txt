@@ -1,0 +1,13 @@
+Title: NASA phóng vệ tinh chuẩn bị cho sứ mệnh trở lại Mặt Trăng
+Keywords: vệ tinh, Mặt Trăng, chương trình Artemis, NASA, Rocket Lab
+Description: Một vệ tinh mini cỡ lò vi sóng đã được phóng vào không gian hôm 28/6 như một bước chuẩn bị cho chương trình Mặt Trăng Artemis.
+Create at: Thứ tư, 29/6/2022, 10:03 (GMT+7)
+Tàu vũ trụ Photon mang theo vệ tinh CAPSTONE được phóng lên bằng tên lửa đẩy hai tầng Electron của công ty Rocket Lab từ phía đông bán đảo Māhia của New Zealand vào lúc 21h55 ngày 28/6 theo giờ địa phương, tức 16h55 giờ Hà Nội.
+"Electron đã khởi động hoàn hảo. Tàu Photon đã đi vào quỹ đạo Trái Đất tầm thấp", Giám đốc điều hành Rocket Lab Peter Beck nhấn mạnh trên Twitter.
+Trong 5 ngày tới, Photon sẽ dần dần tăng quỹ đạo thông qua một loạt các động cơ của nó. Nếu mọi thứ diễn ra đúng như kế hoạch, tàu vũ trụ sẽ thực hiện lần đốt cháy động cơ cuối cùng vào ngày thứ 6 để tăng vận tốc lên 39.500 km/h, đủ nhanh để thoát khỏi quỹ đạo Trái Đất và hướng đến Mặt Trăng. Trong vòng 20 phút kể từ khi đốt cháy đó, Photon sẽ triển khai vệ tinh CAPSTONE.
+CAPSTONE sẽ thỉnh thoảng khai hỏa các động cơ đẩy của riêng nó trong vài tháng tới và cuối cùng sẽ đi vào quỹ đạo hào quang NRHO xung quanh Mặt Trăng, nơi vệ tinh có nhiệm vụ kiểm tra độ ổn định của quỹ đạo mà NASA dự định đặt trạm không gian Gateway.
+Các kỹ sư của sứ mệnh mong đợi quỹ đạo này có độ ổn định cao. Các vệ tinh và tàu vũ trụ sẽ không cần đốt nhiều nhiên liệu để ở trong NRHO, nhờ lực hấp dẫn cân bằng của Mặt Trăng và Trái Đất. Đây là một trong những lý do chính mà NASA quyết định khai thác nó cho trạm không gian Gateway, một phần quan trọng trong chương trình thám hiểm Mặt Trăng Artemis của cơ quan này.
+Gateway sẽ đóng vai trò là điểm xuất phát cho các "chuyến xuất kích", cả có phi hành đoàn và không người lái, xuống bề mặt Mặt Trăng. NASA đặt mục tiêu phóng các module lõi của trạm vào cuối năm 2024.
+CAPSTONE chỉ nặng 25 kg và có kích thước tương đương một chiếc lò vi sóng. Đây là loại công cụ tìm đường, có khả năng tự điều hướng để duy trì quỹ đạo. Vệ tinh ban đầu được lên kế hoạch phóng vào tháng 5, nhưng bị trì hoãn nhiều lần để kiểm tra hệ thống và các thử nghiệm khác.
+Author: Đoàn Dương
+Source: Space

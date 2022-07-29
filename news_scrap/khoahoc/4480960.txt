@@ -1,0 +1,12 @@
+Title: Hệ thống nhận dạng bằng hơi thở
+Keywords: cảm biến, hơi thở, khứu, Nhật Bản, Nghiên cứu, Tin
+Description: Các nhà khoa học tạo ra một công cụ an ninh cho phép nhận dạng cá nhân thông qua cảm biến khứu giác.
+Create at: Thứ ba, 28/6/2022, 13:33 (GMT+7)
+Nhóm nghiên cứu đến từ Đại học Kyushu phát triển cảm biến khứu giác đạt độ chính xác lên tới 97% trong loạt thử nghiệm đầu tiên. Nhà nghiên cứu Chaiyanut Jirayupat tại Viện Hóa học vật liệu và Kỹ thuật thuộc Đại học Kyushu và cộng sự mô tả cảm biến mới trong bài báo công bố hôm 22/6 trên tạp chí Chemical Communications.
+"Công nghệ này dựa vào đặc điểm riêng biệt của mỗi cá nhân. Đặc điểm hình dáng có thể bắt chước, thậm chí thay đổi bằng thương tích. Gần đây, mùi của con người trở thành lĩnh vực mới trong nhận dạng sinh trắc học. Về cơ bản, đó là sử dụng thành phần hóa học của riêng bạn để xác nhận bạn là ai", Jirayupat giải thích.
+Ban đầu, nhóm của Jirayupat tập trung vào khí thải qua da, tức hợp chất sản sinh bởi da người. Tuy nhiên, phương pháp này có hạn chế bởi da không tạo ra mật độ hợp chất bay hơi đủ cao để máy móc có thể phát hiện.
+Sau đó, các nhà khoa học đánh giá khả năng kiểm tra hơi thở của con người. Jirayupat cho biết trước đây hơi thở của con người từng được sử dụng để xác định người mắc bệnh ung thư, tiểu đường và Covid-19. Nhóm nghiên cứu của Đại học Kyushu xác định tổng cộng 28 hợp chất trong hơi thở có thể dùng để nhận dạng sinh trắc học. Họ phát triển một loạt cảm biến khứu giác với 16 nguồn. Mỗi cảm biến có thể nhận dạng một nhóm hợp chất riêng biệt. Dữ liệu cảm biến về hơi thở của từng người được phân tích bằng máy, giúp tạo ra lý lịch riêng của mỗi cá nhân.
+Trưởng nhóm nghiên cứu Takeshi Yanagida chia sẻ, họ đã đạt độ chính xác trung bình 97,8% trong loạt thử nghiệm đầu tiên với 6 người. Độ chính xác này vẫn được duy trì khi cỡ mẫu tăng lên 20 cá nhân với nhiều khác biệt về độ tuổi, giới tính và quốc tịch.
+Theo Yanigada, cần nghiên cứu sâu hơn trước khi giới thiệu hệ thống. Trong nghiên cứu, họ yêu cầu tình nguyện viên nhịn ăn 6 giờ trước khi kiểm tra. Bước tiếp theo là tìm hiểu liệu kỹ thuật này có hiệu quả bất chấp chế độ ăn hay không.
+Author: An Khang 
+Source: Newsweek

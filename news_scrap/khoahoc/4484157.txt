@@ -1,0 +1,11 @@
+Title: Cỗ máy hút CO2 chạy bằng năng lượng mặt trời
+Keywords: cỗ máy, CO2, năng lượng mặt trời, Australia, Công nghệ, Tin
+Description: Máy hút CO2 từ khí quyển do công ty AspiraDAC phát triển sẽ được triển khai để thu giữ và lưu trữ CO2 ở Australia.
+Create at: Thứ năm, 7/7/2022, 09:32 (GMT+7)
+AspiraDAC đã ký kết hợp đồng trị giá 700.000 USD với công ty cơ sở hạ tầng tài chính toàn cầu Strip để lắp đặt cỗ máy trong năm nay. Họ sẽ triển khai khoảng 180 cỗ máy để thu giữ và lưu trữ 500 tấn CO2 vào năm 2027. Nguyên mẫu đầu tiên của cỗ máy được AspiraDAC hợp tác phát triển cùng với Đại học Sydney.
+Về kỹ thuật, cỗ máy được chế tạo dựa trên vật liệu giống miếng bọt biển do Đại học Sydney sản xuất để giữ lại các phân tử CO2 khi không khí lưu chuyển qua bề mặt. Những quạt hút khí vào khoang chứa vật liệu. Nhiệt độ cao được sử dụng để lọc CO2 tinh khiết, sau đó vận chuyển qua đường ống và lưu trữ dưới lòng đất. Các tấm pin quang năng che phủ khung hình chữ A cung cấp tất cả năng lượng cho cỗ máy. Mục tiêu của AspiraDAC là nén, vận chuyển và lưu trữ CO2 với chi phí dưới 20 USD/tấn.
+AspiraDAC chưa tiết lộ địa điểm triển khai cỗ máy hoặc lưu trữ carbon, nhưng công ty đang cân nhắc những bể dầu khí đã khai thác hết ở Moomba, Nam Australia. Hiện nay, công ty đang tổng kết giai đoạn thử nghiệm của dự án và lên kế hoạch xây dựng nhà máy vào cuối năm nay.
+Dù lượng CO2 thu giữ được theo hợp đồng mới tương đối nhỏ, AspiraDAC cho rằng đây là bước tiến quan trọng với tiềm năng phát triển lớn ở Australia.
+"Năng lượng mặt trời dồi dào của Australia có nghĩa đây là địa điểm hoàn hảo đối với DAC. Nhờ sử dụng module năng lượng mặt trời, cơ sở có thể vận hành độc lập với những nguồn năng lượng truyền thống. Thêm vào đó, kích thước nhỏ gọn của cỗ máy có nghĩa sản phẩm có thể thu giữ khí thải CO2 mà sử dụng chưa đến 90% diện tích đất cần thiết trong các dự án tương tự khác", Julian Turecek, giám đốc điều hành AspiraDAC, chia sẻ.
+Author: An Khang
+Source: Interesting Engineering

@@ -1,0 +1,12 @@
+Title: Biến nhện chết thành 'robot xác sống'
+Keywords: xác sống, robot, con nhện, Mỹ, Nghiên cứu, Tin
+Description: Sử dụng kim tiêm và không khí, các chuyên gia khiến chân nhện chết co duỗi như lúc sống, giúp gắp vật dụng nặng bằng 130% cơ thể nhện.
+Create at: Thứ ba, 26/7/2022, 19:00 (GMT+7)
+Nhóm kỹ sư tại Đại học Rice tìm ra cách "hồi sinh" phần chân của xác nhện. Họ sử dụng kim tiêm và không khí để kích hoạt chân nhện chết, mô phỏng lại cách chúng cử động khi nhện còn sống. Vì nhện đã chết và được sử dụng theo kiểu robot, nhóm kỹ sư gọi đây là "robot xác sống".
+Nghiên cứu sinh ngành kỹ thuật cơ khí Faye Yap là tác giả chính của nghiên cứu mới, xuất bản trên tạp chí 
+Khi còn sống, nhện sử dụng máu để co duỗi chân thông qua một quá trình thủy lực. Cụ thể hơn, chúng có một "buồng điều khiển" ở gần đầu. Buồng này bơm máu vào các chân khi đang ở tư thế co, khiến chân duỗi ra. Khi áp lực được giải phóng, các chân sẽ thu lại.
+Nhóm nghiên cứu cho nhện sói an tử (chết một cách nhẹ nhàng), đưa đầu kim vào buồng điều khiển, cố định lại bằng keo dán rồi dùng không khí để kích hoạt sự co duỗi chân. Kẹp gắp xác nhện có thể nâng vật nặng bằng 130% cơ thể, ví dụ như một con nhện khác hoặc những vật thể nhỏ như các bộ phận trên bảng mạch.
+Xác nhện tồn tại trong khoảng 1.000 chu kỳ co duỗi, sau đó các mô bắt đầu phân rã. Nhóm nghiên cứu hy vọng việc thêm một lớp phủ polymer sẽ giúp tăng thời gian sử dụng.
+Robot xác nhện có những ứng dụng thực tế hữu ích, nhóm nghiên cứu cho biết. Chúng có thể gắp được những vật dụng khác thường và lẫn vào môi trường xung quanh. Ngoài ra, chúng cũng phân hủy sinh học theo thời gian. Nhóm nghiên cứu hy vọng thử nghiệm phương pháp này với những loài nhện nhỏ hơn và dự định tìm cách kích hoạt từng chân riêng rẽ.
+Author: Thu Thảo
+Source: Advanced Science

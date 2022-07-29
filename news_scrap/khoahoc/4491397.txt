@@ -1,0 +1,13 @@
+Title: Chữ khắc laser đầu tiên trên đá sao Hỏa
+Keywords: sao Hỏa, NASA, mẫu vật, laser, khắc chữ, Perseverance, Vũ trụ, Tin
+Description: Robot NASA dùng laser khắc chữ L viết hoa trên một tảng đá sao Hỏa nhằm đánh dấu hướng, phục vụ việc nghiên cứu sau này.
+Create at: Chủ nhật, 24/7/2022, 11:46 (GMT+7)
+Khi nghiên cứu đá sao Hỏa, các chi tiết nhỏ cũng trở nên rất quan trọng. NASA dự định mang các mẫu đá do robot Perseverance thu thập về Trái Đất để nghiên cứu. Do đó, ngoài địa điểm lấy mẫu, các chuyên gia NASA còn cần nằm được hướng ban đầu của những khối đá. Để làm được điều này, Perseverance đã "khắc chữ" trên hành tinh đỏ.
+Perseverance sử dụng laser của công cụ SuperCam gắn trên chiếc cọc cao của robot để khoan ba lỗ theo hình chữ L vào một tảng đá hồi tháng 6. Điều này không phải ngẫu nhiên mà có mục đích khoa học rõ ràng.
+Thành viên nhóm phụ trách SuperCam, Roger Wiens, gọi đây là "chữ cái đầu tiên được khắc laser trên sao Hỏa" trong một bản thông báo cập nhật về tình hình nhiệm vụ hôm 21/7. Thông báo cũng nêu chi tiết lý do tại sao Perseverance cần khắc chữ như vậy.
+Perseverance đang thám hiểm một vùng châu thổ sông cổ đại có thể mang đến cho giới khoa học cơ hội tốt để tìm ra bằng chứng về sự sống của vi sinh vật trên sao Hỏa trước kia. Điều này nghĩa là các mẫu đá thu thập ở đây đặc biệt quan trọng.
+Ngoài phục vụ việc tìm kiếm sự sống, những mẫu đá cũng có thể giúp các nhà nghiên cứu tìm hiểu sự phát triển của từ trường sao Hỏa và ảnh hưởng của nó đến khí quyển. Họ muốn biết hướng đá để hiểu hướng ban đầu của các miền từ tính trong các mẫu vật.
+Với mẫu đá có những đặc điểm dễ nhận biết, việc xác định định hướng rất đơn giản, theo Wiens. "Tuy nhiên, nếu bề mặt là dạng hạt mịn, có thể sẽ chẳng có gì để phân biệt hướng quay của nó. Trong trường hợp này, chúng ta cần tạo ra các dấu hiệu nhân tạo trên bề mặt", ông cho biết. Những tảng đá với bề mặt dạng hạt mịn của vùng đồng bằng sông cổ đại là đối tượng tốt để kiểm tra phương pháp này.
+Nhóm chuyên gia đã chọn chữ L viết hoa như một cách đơn giản và hiệu quả để đánh dấu hướng. "Với thử nghiệm thành công, chúng tôi đã sẵn sàng sử dụng quy trình này để đánh dấu mẫu vật trong tương lai", Wiens viết.
+Author: Thu Thảo
+Source: Cnet

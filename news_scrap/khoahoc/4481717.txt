@@ -1,0 +1,17 @@
+Title: Cuộc thi ứng dụng AI giải bài toán du lịch Quy Nhơn - VnExpress
+Keywords: Quynhon AI Hackathon 2022, ứng dụng AI, trí tuệ nhân tạo, du lịch, Hoạt động ngành, Tin
+Description: Với tổng giải thưởng 250 triệu đồng, cuộc thi &quot;Quy Nhơn AI Hackathon 2022&quot; tìm kiếm giải pháp ứng dụng AI thúc đẩy du lịch. - VnExpress
+Create at: Thứ tư, 20/7/2022, 15:51 (GMT+7)
+Quynhon AI Hackathon 2022 do Trung tâm Nghiên cứu và Ứng dụng Trí tuệ nhân tạo Quy Nhơn (QAI – FPT Software) tổ chức trong khuôn khổ chương trình AI4VN 2022, với sự bảo trợ của Bộ Khoa học và Công nghệ, 
+Cuộc thi hướng đến tìm kiếm và phát triển các ứng dụng AI giúp thúc đẩy du lịch, hoàn thiện trải nghiệm người dùng khi đến với Quy Nhơn. Đây là sân chơi kỹ thuật cho những người có niềm đam mê và yêu thích AI trên toàn quốc. Cuộc thi góp phần quảng bá du lịch tỉnh Bình Định đến du khách trong và ngoài nước, đồng thời ứng dụng AI vào giải quyết bài toán của địa phương.
+Với thông điệp "Dẫn lối giác quan", cuộc thi mong muốn người tham gia hoàn thành mục tiêu tăng cường và tối ưu trải nghiệm du lịch của từng du khách trên các phương diện: ăn, nghe, nhìn, nói và đi lại.
+Diễn ra từ ngày 25/7 đến 9/9, cuộc thi trải qua vòng loại tổ chức online gồm 2 đề thi, 6 đội có điểm số cao nhất sẽ vào chung kết. Vòng chung kết và gala dinner sẽ được tổ chức tại thung lũng Quy Nhơn AI Creative Valley của FPT. Lễ trao giải dự kiến tổ chức vào tháng 9/2022.
+Các thí sinh đăng kí tham gia cuộc thi theo hình thức nhóm với tối đa 3 thành viên. Tại đây, các bài toán đều sát với yêu cầu địa phương như smart menu cho du khách nước ngoài, phân tích- dự đoán feedback trải nghiệm của du khách, trip planner- thuật toán lên kế hoạch du lịch Quy Nhơn để tối ưu trải nghiệm.
+Ở vòng sơ khảo, các đội sẽ chọn một trong bài toán về smart menu hoặc dự báo dư luận để giải. Leaderboard công bố trực tiếp.
+Tại vòng chung kết, Top6 sẽ trực tiếp tới Quy Nhơn để tham dự Hackathon. BTC sẽ công bố tập Private Test cho bài toán trip planner để các các nhóm tiếp tục đánh giá hiệu năng của thuật toán. Sau 5 vòng thi đấu, đội có chiến thuật và thuật toán tối ưu nhất sẽ giành chiến thắng.
+Chủ nhân giải thưởng sẽ nhận được giải tiền mặt với giải nhất trị giá 150 triệu đồng, giải nhì 80 triệu đồng, giải ba 50 triệu đồng, cùng giấy chứng nhận của Ban tổ chức. Ngoài ra, đội vô địch có cơ hội khám phá AI Valley trong 4 ngày và kết thúc chuyến hành trình tại AI Summit Hà Nội, tổ chức vào tháng 9/2022. Ngoài ra, các đội thi sẽ có cơ hội tham gia những buổi tham luận cùng với chuyên gia và kỹ sư đầu ngành; nhận được cơ hội việc làm với mức lương hấp dẫn tại công ty công nghệ hàng đầu Việt Nam.
+Quy Nhơn AI Hackathon 2022 nằm trong chuỗi các sự kiện của Ngày hội Trí tuệ nhân tạo quốc gia AI4VN 2022. Chương trình do Bộ Khoa học và Công nghệ chỉ đạo, Báo 
+Cuộc thi có sự cố vấn chuyên môn từ các giáo sư hàng đầu về lĩnh vực AI như GS.TS Nguyễn Thanh Thuỷ, Phó Hiệu trưởng trường Đại học Công nghệ (ĐHQG Hà Nội); ông Vũ Anh Tú, giám đốc công nghệ tập đoàn FPT; PSG.TS Bùi Thu Lâm, Giảng viên ngành Khoa học máy tính, Đại học Kỹ thuật Lê Quý Đôn; ông Vũ Hồng Chiên, Giám đốc Trung tâm Nghiên cứu và Ứng dụng trí tuệ nhân tạo Quy Nhơn (QAI – FPT Software)...
+Quy Nhơn AI Hackathon 2022 mở cổng đăng ký từ ngày 23/7 đến 30/8. Độc giả quan tâm có thể tìm hiểu về cuộc thi 
+Author: Như Quỳnh
+Source: VnExpress

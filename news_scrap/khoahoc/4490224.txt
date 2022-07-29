@@ -1,0 +1,10 @@
+Title: Đoàn tàu có thể hút 6.000 tấn CO2 mỗi năm
+Keywords: thu giữ carbon, đoàn tàu, Công nghệ, Tin
+Description: CO2 Rail, công ty khởi nghiệp ở Mỹ, lên kế hoạch thu carbon trực tiếp từ không khí bằng những toa tàu đã chỉnh sửa chạy ngang dọc trên cả nước.
+Create at: Thứ sáu, 22/7/2022, 07:55 (GMT+7)
+Nhóm nghiên cứu đến từ CO2 Rail cùng với Đại học Toronto phát triển phương pháp mới nhằm tận dụng mạng lưới đường sắt hiện nay và thu giữ CO2 từ khí quyển trong khi tàu chở khách và hàng hóa di chuyển như thường lệ. Họ dự định sử dụng toa tàu trang bị lỗ thông khí lớn để hút khí, theo báo cáo công bố hôm 20/7 trên tạp chí 
+Do hoạt động hút khí sẽ diễn ra khi tàu chạy ở tốc độ cao, phương pháp này sẽ loại bỏ nhu cầu sử dụng quạt lớn thường gặp ở các hệ thống thu giữ CO2 trực tiếp cố định, giúp tiết kiệm đáng kể năng lượng. Toa tàu cũng có buồng chứa để thu thập carbon dioxide (CO2), sau đó cô đặc và lưu trữ trong bể chất lỏng. Không khí không chứa CO2 sẽ được giải phóng vào không khí từ phía sau hoặc bên hông toa tàu.
+"Cứ cách 20 giờ ở trạm luân phiên thay nhân viên hoặc tiếp nhiên liệu, CO2 trong bể chứa lại được đổ vào toa xe bồn thông thường đặt ở trạm đó", E.Bachman, sáng lập viên của CO2 Rail, chia sẻ với 
+Ở hệ thống phanh thông thường, ma sát do sử dụng phanh sinh ra nhiệt giải phóng vào không khí. Hoạt động phanh tạo ra đủ năng lượng để cung cấp cho 20 ngôi nhà trong một ngày. Sử dụng hệ thống phanh tái tạo, đoàn tàu có thể biến đổi năng lượng này thành điện, dùng cho quá trình thu giữ CO2 trực tiếp. Nhóm nghiên cứu ước tính một tàu chở hàng trung bình có thể loại bỏ 6.000 tấn CO2 mỗi năm. Với nguồn cung cấp điện bền vững trên tàu, phương pháp không chỉ thân thiện với môi trường mà còn tiết kiệm chi phí. Chi phí dự kiến chưa đến 60 USD/tấn CO2, khiến công nghệ khả thi về mặt thương mại.
+Author: An Khang
+Source: Joule

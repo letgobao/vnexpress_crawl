@@ -1,0 +1,10 @@
+Title: Phát hiện từ trường mạnh nhất trong vũ trụ
+Keywords: từ trường, sao neutron, kính viễn vọng không gian, Vũ trụ, Tin
+Description: Kính viễn vọng không gian Insight-HXMT phát hiện từ trường 1,6 tỷ tesla trên bề mặt ngôi sao neutron Swift J0243.6+6124 cách Trái Đất 22.000 năm ánh sáng.
+Create at: Thứ năm, 7/7/2022, 16:30 (GMT+7)
+Phát hiện mới phá vỡ kỷ lục trước đó là một tỷ tesla trên một ngôi sao neutron khác cũng được phát hiện bởi vệ tinh Insight-HXMT, chứng tỏ loại sao này có cấu trúc từ trường phức tạp. Tesla là đơn vị đo độ mạnh của từ trường. Từ trường trung bình trên bề mặt Trái Đất vào khoảng 0,00005 tesla, có nghĩa từ trường của Swift J0243.6+6124 mạnh gấp 32 nghìn tỷ lần so với trên Trái Đất.
+Kính viễn vọng Hard X-ray Modulation (Insight-HXMT) phóng vào năm 2017. Đây là kính viễn vọng tia X năng lượng cao mạnh nhất trên quỹ đạo. Theo bài báo của nhóm nghiên cứu xuất bản hôm 28/6 trên tạp chí Vật lý thiên văn, phạm vi quan sát rộng của Insight-HXMT ở dải tia X cho phép phát hiện CRSF (tán xạ cộng hưởng cyclotron) với năng lượng cao nhất từ trước tới nay. Phát hiện CRSF là cách duy nhất để đo từ trường gần bề mặt sao neutron một cách trực tiếp và đáng tin cậy.
+Các đường cyclotron là đặc điểm ở quang phổ tia X của nhiều vật thể, trong đó có sao neutron từ tính cao, theo nghiên cứu của những nhà thiên văn học Đức trên tạp chí 
+Nhóm nghiên cứu bao gồm các nhà khoa học đến từ Viện Hàn lâm Khoa học Trung Quốc, Đại học Trung Sơn, Đại học Tương Đàm, Đại học Thanh Hoa, Đại học Eberhard Karls ở Đức và Viện Hàn lâm Khoa học Nga. Theo họ, phát hiện giúp chứng minh sự tồn tại của trường đa cực từ gần bề mặt sao neutron.
+Author: An Khang
+Source: Astronomy & Astrophysics

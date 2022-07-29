@@ -1,0 +1,14 @@
+Title: NASA dùng khí cầu khổng lồ chở kính viễn vọng lên cao 40.000 m
+Keywords: kính viễn vọng, khí cầu, NASA, châu Nam Cực
+Description: Khí cầu có kích thước bằng sân bóng của NASA sẽ đưa kính viễn vọng ASTHROS bay lên từ châu Nam Cực để quan sát vũ trụ vào tháng 12/2023.
+Create at: Chủ nhật, 3/7/2022, 10:00 (GMT+7)
+Thoát khỏi sự che mờ của khí quyển Trái Đất, kính viễn vọng không gian là một bước nhảy vọt của thiên văn học, giúp con người hiểu thêm nhiều điều về vũ trụ. Tuy nhiên, quá trình phát triển những kính viễn vọng như vậy có thể mất nhiều năm và việc phóng chúng lên không gian cũng rất tốn kém.
+Một giải pháp thay thế là treo kính viễn vọng trên khí cầu, giữ chúng lơ lửng phía trên phần lớn khí quyển để quan sát. Giải pháp này không hoàn hảo nhưng rẻ hơn so với phóng kính viễn vọng không gian, đồng thời cho phép các tổ chức sử dụng chúng làm nền tảng thử nghiệm những công nghệ vũ trụ tương lai.
+Trong nhiệm vụ mới, NASA sẽ sử dụng khí cầu có kích thước bằng sân bóng để chở kính viễn vọng ASTHROS lên độ cao 40.000 m, 
+NASA cho biết, kính viễn vọng gắn trên khí cầu phải thật cứng cáp. Điều này đặc biệt quan trọng với ASTHROS. Tấm gương rộng 2,5 m của nó phải chịu được cả những rung lắc cơ học lẫn sức kéo của trọng lực để giữ cho hình dạng parabol chỉ lệch trong phạm vi 2,2 micromet.
+Để đạt được điều này, công ty Media Lario (Italy) đã chế tạo gương chính của ASTHROS từ những tấm nhôm nhẹ theo cấu trúc tổ ong với bề mặt làm bằng niken mạ vàng. Nó được gắn lên một khung đỡ bằng carbon composite để vừa nhẹ, vừa chắc chắn.
+Lớp phủ cho phép tấm gương phản xạ ánh sáng mờ trong các bước sóng hồng ngoại xa. Khả năng này giúp ASTHROS quan sát các vùng hình thành sao của dải Ngân Hà và lập bản đồ 3D độ phân giải cao về sự phân bố và chuyển động của các khí, đồng thời so sánh với những thiên hà xa xôi để hiểu hơn về quá trình sao hình thành và chết.
+"Tôi nghĩ đây có lẽ là kính viễn vọng phức tạp nhất từng được chế tạo cho một nhiệm vụ khí cầu ở độ cao lớn. Chúng tôi có các thông số kỹ thuật tương tự như kính viễn vọng không gian nhưng với ngân sách, lịch trình và khối lượng chặt chẽ hơn. Chúng tôi phải kết hợp công nghệ từ những kính viễn vọng dưới mặt đất quan sát ở bước sóng tương tự với công nghệ tiên tiến dùng cho thuyền buồm đua chuyên nghiệp", Jose Siles, quản lý dự án ASTHROS tại Phòng thí nghiệm Sức đẩy Phản lực (JPL) thuộc NASA, cho biết.
+ASTHROS dự kiến được gắn vào khoang chở thiết bị của khí cầu vào tháng tới, sau đó bắt đầu giai đoạn thử nghiệm trước khi bay.
+Author: Thu Thảo
+Source: New Atlas

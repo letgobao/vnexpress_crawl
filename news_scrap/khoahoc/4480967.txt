@@ -1,0 +1,13 @@
+Title: Tàu vũ trụ sao Hỏa nâng cấp sau 20 năm dùng Windows 98
+Keywords: tàu vũ trụ, sao Hỏa, Windows 98, ESA, Công nghệ, Vũ trụ, Tin
+Description: Nâng cấp phần mềm sẽ giúp công cụ MARSIS trên tàu vũ trụ Mars Express thu tín hiệu tốt hơn, xử lý dữ liệu hiệu quả và hoạt động được lâu hơn. 
+Create at: Thứ ba, 28/6/2022, 12:00 (GMT+7)
+Các kỹ sư tại Cơ quan Vũ trụ châu Âu (ESA) đang nâng cấp cho Mars Express, tàu vũ trụ bay trên quỹ đạo sao Hỏa, sau khoảng 20 năm sử dụng Windows 98, 
+Mars Express phóng lên không gian vào năm 2003, đến nay vẫn bay quanh hành tinh đỏ. Trong suốt thời gian này, dụng cụ Radar Tiên tiến Thăm dò Tầng điện ly và Dưới bề mặt (MARSIS) của Mars Express đã sử dụng phần mềm được phát triển cho Windows 98.
+"Chúng tôi phải đối mặt với nhiều thách thức để cải thiện hiệu suất của MARSIS. Đặc biệt là vì phần mềm được thiết kế từ hơn 20 năm trước, sử dụng môi trường phát triển dựa trên Windows 98 của Microsoft", Carlo Nenna, kỹ sư phần mềm của MARSIS, người chịu trách nhiệm nâng cấp, giải thích. ESA chưa tiết lộ tên của phần mềm đang nâng cấp cho MARSIS cũng như hệ điều hành dùng cho hệ thống mới.
+Việc nâng cấp phần mềm cho dụng cụ MARSIS đồng nghĩa Mars Express có thể quan sát bên dưới bề mặt sao Hỏa và mặt trăng Phobos chi tiết hơn bao giờ hết, theo thông báo của ESA. Điều này sẽ rất đáng mong đợi vì MARSIS là bộ phận quan trọng giúp tàu vũ trụ phát hiện một tầng ngậm nước khổng lồ dưới lòng đất sao Hỏa năm 2018.
+Tàu Mars Express truyền sóng vô tuyến tần số thấp xuống bề mặt sao Hỏa với một ăng-ten dài 40 m để tìm kiếm nước và nghiên cứu khí quyển của hành tinh đỏ. Sóng vô tuyến cho phép thiết bị trên tàu thăm dò khoảng 5 km dưới bề mặt sao Hỏa. Theo ESA, việc nâng cấp phần mềm sẽ làm tăng chất lượng dữ liệu.
+Nâng cấp giúp cải thiện khả năng thu tín hiệu cho ăng-ten MARSIS và tăng hiệu quả xử lý dữ liệu, cho phép kéo dài thời gian quan sát. "Bằng cách loại bỏ những dữ liệu không cần thiết, phần mềm mới giúp chúng tôi vận hành MARSIS lâu hơn gấp 5 lần và khám phá khu vực rộng lớn hơn nhiều", Andrea Cicchetti, quản lý việc vận hành MARSIS tại Viện Vật lý Thiên văn Quốc gia Italy (INAF), giải thích.
+"Phần mềm mới sẽ giúp chúng tôi nghiên cứu các khu vực trên sao Hỏa nhanh chóng và sâu rộng hơn với độ phân giải cao, từ đó xác nhận xem chúng có phải là nguồn nước hay không. Điều này thực sự giống như có một công cụ hoàn toàn mới trên tàu Mars Express sau gần 20 năm", Cicchetti nói thêm.
+Author: Thu Thảo
+Source: Interesting Engineering

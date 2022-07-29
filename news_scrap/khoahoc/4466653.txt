@@ -1,3 +1,0 @@
-Title: Drone có thể bay, lặn và 'đi nhờ' vật thể khác
-Description: Nhóm chuyên gia tại Đại học Bắc Hàng phát triển mẫu drone đa năng trang bị giác hút, lấy cảm hứng từ cá ép và chim bói cá.
-Video: 

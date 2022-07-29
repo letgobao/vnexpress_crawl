@@ -1,2 +1,0 @@
-Title: Quy trình đông lạnh xác chờ hồi sinh
-Description: Công nghệ hiện đại cho phép bảo quản xác ở mức nhiệt -196 độ C trong các bể chứa đầy nitơ lỏng, chờ cơ hội "sống lại" trong tương lai.

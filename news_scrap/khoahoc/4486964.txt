@@ -1,0 +1,11 @@
+Title: Tên lửa SpaceX phát nổ trên bệ phóng 
+Keywords: tên lửa, SpaceX, Starship, thử nghiệm, Super Heavy, Mỹ, Công nghệ, Tin
+Description: Chuyến bay lên quỹ đạo của tàu vũ trụ Starship có thể sẽ phải hoãn lại do vụ nổ bất ngờ xảy ra khi thử nghiệm động cơ hôm 12/7.
+Create at: Thứ tư, 13/7/2022, 15:21 (GMT+7)
+Thử nghiệm diễn ra lúc 4h20 (giờ Hà Nội) tại cơ sở của SpaceX ở Boca Chica, Texas, nơi hãng này dự định dùng để phóng tàu vũ trụ Starship lên quỹ đạo. Sau sự việc, SpaceX đã tạm thời đóng cửa bệ phóng để đảm bảo an toàn. Nhóm phụ trách cũng đang đánh giá thiệt hại, theo Elon Musk, CEO của công ty.
+SpaceX phát triển hệ thống phóng Starship - Super Heavy nhằm đưa người và hàng hóa đến Mặt Trăng, thậm chí sao Hỏa. Hệ thống có thể tái sử dụng hoàn toàn, gồm tầng thứ nhất là tên lửa đẩy Super Heavy và tầng thứ hai là tàu Starship.
+Thử nghiệm hôm qua được thực hiện với nguyên mẫu Booster 7 của Super Heavy. Tên lửa đẩy khổng lồ này trang bị 33 động cơ Raptor. Vụ nổ xảy ra ngay sau khi các động cơ khai hỏa và khiến camera ghi hình bị rung lắc. Booster 7 có vẻ không bị vỡ, nhưng khoảng hơn một tiếng sau vụ nổ, khói đen vẫn phun ra từ bệ phóng thử nghiệm.
+Sự cố có thể liên quan đến loại nhiên liệu lạnh mà Starship dùng để cất cánh. "Nhiên liệu lạnh là một thách thức vì nó bốc hơi dẫn đến nguy cơ nổ nhiệt áp trong khí quyển chứa oxy như Trái Đất", Musk viết trên mạng xã hội Twitter.
+Tháng trước, Musk thông báo Starship sẽ sẵn sàng phóng trong tháng 7 sau khi được Cục quản lý Hàng không Liên bang Mỹ (FAA) cấp phép. Hôm 3/7, SpaceX chia sẻ ảnh chụp tổ hợp động cơ Raptor gần hoàn thiện trên Booster 7 (33 động cơ) và nguyên mẫu Starship S24 (6 động cơ). Tuy nhiên, sự cố trong cuộc thử nghiệm hôm 12/7 có thể khiến vụ phóng của Starship phải lùi lại.
+Author: Thu Thảo
+Source: Interesting Engineering

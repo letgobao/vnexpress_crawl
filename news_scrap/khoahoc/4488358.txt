@@ -1,0 +1,14 @@
+Title: Chó robot hỗ trợ công việc lâm nghiệp ở Nhật Bản
+Keywords: robot, chó robot, robot Spot, Boston Dynamics, SoftBank, thiếu lao động, Tin nóng
+Description: Nhật Bản đang thử nghiệm một mẫu robot do Boston Dynamics phát triển để giải quyết tình trạng thiếu lao động trong ngành lâm nghiệp.
+Create at: Thứ bảy, 16/7/2022, 15:10 (GMT+7)
+Đoạn video được chia sẻ bởi tập đoàn viễn thông SoftBank của Nhật Bản cho thấy robot 4 chân màu vàng băng băng vượt dốc, sau đó diễu hành qua một nền rừng đầy gốc và cành cây khô. Nó thậm chí còn leo lên một gốc cây và bước xuống mà không cần trợ giúp.
+Đây là một phần trong cuộc thử nghiệm do Viện Nghiên cứu Lâm nghiệp và Lâm sản Nhật Bản (FFPRI) và SoftBank phối hợp thực hiện. Mục tiêu là tìm ra giải pháp cho tình trạng thiếu lao động kinh niên của Nhật Bản trong ngành lâm nghiệp. Nếu thành công, nó có thể tăng cường tái trồng rừng ở nước này và giúp Nhật Bản đạt được mục tiêu trung hòa carbon.
+Cuộc thử nghiệm sẽ xác minh xem liệu mẫu chó robot "Spot" do công ty Boston Dynamics của Mỹ sản xuất có khả năng tuần tra, giám sát và vận chuyển hàng hóa qua các khu vực có rừng hay không. Điều này bắt đầu bằng cách xác nhận loại bề mặt nào mà nó có thể đi qua.
+Các nhà nghiên cứu sẽ sử dụng wifi và liên lạc vệ tinh để các robot - được cài đặt công nghệ định vị độ chính xác cao và liên kết Internet - có thể tự động điều hướng và thực hiện nhiệm vụ trong rừng.
+Việc chạy thử sẽ được tiến hành thêm hai lần nữa trước cuối năm nay: một ở thị trấn Shimokawa trên đảo Hokkaido và một ở đô thị Tsukuba thuộc tỉnh Ibaraki.
+Công việc lâm nghiệp hiện nay chủ yếu là thủ công, nhưng công nhân ngày càng già đi và giảm số lượng, vì vậy các nhà nghiên cứu hy vọng chó robot có thể giúp con người giám sát và duy trì các khu rừng của Nhật Bản.
+Trong những năm gần đây, chính phủ Nhật Bản đã ủng hộ các sáng kiến "lâm nghiệp thông minh", sử dụng robot và các công nghệ khác để cải thiện thông tin liên lạc, nỗ lực trồng rừng và khắc phục hậu quả thiên tai.
+Với sự gia tăng nhu cầu về gỗ, khoảng một nửa diện tích rừng nhân tạo của Nhật Bản đã sẵn sàng để khai thác. Tuy nhiên, các kế hoạch trồng rừng đang bị cản trở do thiếu hụt lao động.
+Author: Đoàn Dương
+Source: Japan Times

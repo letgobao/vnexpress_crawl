@@ -1,0 +1,11 @@
+Title: Vật liệu sinh học bền hơn tơ nhện
+Keywords: vật liệu sinh học, tơ nhện, sao sao, Anh
+Description: Các nhà khoa học mô phỏng thành công quá trình hình thành răng của con sao sao và ứng dụng để tạo ra vật liệu bền ngang sợi carbon, có thể phân hủy sinh học.
+Create at: Thứ sáu, 8/7/2022, 16:30 (GMT+7)
+Nghiên cứu công bố hôm 7/7 trên tạp chí 
+Năm 2015, giới nghiên cứu phát hiện vật liệu sinh học bền nhất thế giới thuộc về sao sao, loài động vật biển thân mềm có lớp vỏ hình nón, thường bám vào đá. Chúng sử dụng chiếc lưỡi phủ đầy răng siêu nhỏ để cạo thức ăn trên đá và cho vào miệng. Những chiếc răng này chứa hợp chất cứng nhưng không kém phần linh hoạt, bền hơn nhiều so với tơ nhện và có thể sánh ngang với những vật liệu nhân tạo, bao gồm sợi carbon và Kevlar.
+Độ bền cực cao của răng sao sao là kết quả từ cấu trúc độc đáo chứa các sợi chitin, kết hợp với tinh thể goethite mịn, một loại khoáng chất chứa sắt. Những sợi này đan xen vào nhau theo cách tương tự như sợi carbon được sử dụng để gia cố nhựa.
+Nhằm phát triển vật liệu, nhóm nghiên cứu phát triển phương pháp lắng chitin và oxit sắt trên thủy tinh bọc huyết thanh, tương tự quá trình ở răng sao sao. Sau 2 tuần, các hợp chất tự tạo thành cấu trúc tương tự bộ phận của sao sao gọi là lưỡi bào, từ đó phát triển thành răng. Rumney mất 6 tháng để thiết kế quá trình này.
+Sau khi mô phỏng thành công quá trình hình thành răng của sao sao, nhóm nghiên cứu có thể sản xuất mẫu vật vật liệu sinh học rộng 0,5 cm bằng cách khoáng hóa chitin. Tiếp theo, Rumney và cộng sự sẽ khám phá khả năng tăng kích thước những đĩa nhỏ này và sản xuất hàng loạt, qua đó thay thế sử dụng nhựa bằng sản phẩm sinh học không độc hại.
+Author: An Khang 
+Source: Nature

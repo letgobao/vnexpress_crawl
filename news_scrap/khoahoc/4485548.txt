@@ -1,0 +1,10 @@
+Title: Cơ bắp nhân tạo khỏe gấp 10 lần cơ bắp thật
+Keywords: cơ bắp tự nhiên, cơ bắp nhân tạo, vật liệu mới, Mỹ
+Description: Các nhà nghiên cứu ở Đại học California, Los Angeles (UCLA) phát triển một vật liệu mới để sản xuất cơ bắp nhân tạo khỏe và linh hoạt hơn nhiều cơ bắp tự nhiên.
+Create at: Chủ nhật, 10/7/2022, 00:00 (GMT+7)
+Cộng tác với tổ chức phi lợi nhuận SRI International, nhóm nghiên cứu ở UCLA sử dụng hóa chất có sẵn và quá trình xử lý dựa vào đèn cực tím (UV) để cải tiến lớp vật liệu đàn hồi điện môi (DE). Loại vật liệu này không chỉ dễ uốn và bền mà còn nhẹ và có mật độ năng lượng cao. DE là những polymer có thể thay đổi kích thước hoặc hình dạng khi áp dụng điện trường, biến chúng thành vật liệu lý tưởng để chế tạo bộ truyền động. DE sản xuất từ acrylic có thể chịu áp lực cao nhưng cần kéo giãn trước và khó uốn. Ngược lại, DE làm từ silicon dễ chế tạo nhưng không thể chịu áp lực cao.
+Nhóm nghiên cứu có thể thay đổi liên kết chéo ở chuỗi polymer của vật liệu để tạo ra DE mềm, dễ uống và tăng kích thước một cách đơn giản hơn mà không mất độ bền hoặc dẻo dai. Những thay đổi trong quá trình sản xuất cho phép họ sản xuất màng DE mỏng gọi là vật liệu đàn hồi điện môi hiệu suất cao dễ xử lý (PHDE). Màng PHDE mỏng và nhẹ như sợi tóc người. Việc xếp nhiều lớp màng PHDE có thể giúp các nhà nghiên cứu tạo ra bộ truyền động cỡ nhỏ hoạt động giống mô cơ và sản sinh đủ cơ năng để vận hành một robot nhỏ.
+Nhóm nghiên cứu cũng ứng dụng quá trình đơn giản hóa giúp sắp xếp màng PHDE bằng lưỡi dao, sau đó xử lý bằng đèn UV. Nhờ đó, họ có thể sản xuất bộ truyền động tương tự chân nhện với khả năng uốn cong và nhảy, hoặc bật và xoay tròn.
+Bộ truyền động từ PHDE có thể sản sinh nhiều lực hơn và linh hoạt gấp 3 - 10 lần cơ bắp tự nhiên. Ví dụ, bộ truyền động mới có thể ném một quả bóng nặng gấp 20 lần. Theo Qibing Pei, giáo sư khoa học vật liệu và kỹ thuật ở UCLA, bộ truyền động này có thể mở đường cho cơ bắp nhân tạo trên robot hoặc cảm biến và công nghệ mô phỏng chính xác và thậm chí cải tiến chuyển động giống con người.
+Author: An Khang
+Source: Interesting Engineering

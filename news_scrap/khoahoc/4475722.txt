@@ -1,0 +1,27 @@
+Title: AI có phải là tương lai của nghệ thuật?
+Keywords: AI, trí tuệ nhân tạo, nghệ thuật, nghệ thuật AI, Ứng dụng, Phổ biến kiến thức
+Description: Trí tuệ nhân tạo hứa hẹn là bước đột phá tiếp theo của nghệ thuật, nhưng sự sáng tạo của con người vẫn đóng vai trò trung tâm.
+Create at: Thứ tư, 15/6/2022, 00:00 (GMT+7)
+Nghệ sĩ Argentina Sofia Crespo là một trong những người tiên phong của 
+Lĩnh vực này đã bắt đầu thu hút sự quan tâm lớn của các nhà sưu tập nghệ thuật và thậm chí được định giá cao trong các cuộc đấu giá.
+Vào tháng 3 năm nay, nghệ sĩ và lập trình viên 22 tuổi người Mỹ Robbie Barrat đã bán một tác phẩm có tên "Nude Portrait#7Frame#64" - được tạo nên với sự hỗ trợ của AI - với giá 630.000 bảng Anh, tương đương 821.000 USD, trên sàn đấu giá Sotheby's.
+Cách đó gần 4 năm trong một cuộc đấu giá do nhà Christie's tổ chức, Hiệp hội Obvious của Pháp - bao gồm các nghệ sĩ làm việc với trí tuệ nhân tạo - cũng bán tác phẩm có tựa đề "Edmond de Belamy" với giá 432.500 USD.
+Những thương vụ đầu tiên này đang 
+Nhà sưu tập Jason Bailey nói với 
+Từ những năm 1960, các nghệ sĩ ở Đức và Mỹ đã để lại những dấu ấn nghệ thuật bằng máy tính. Bảo tàng V&A ở London hiện vẫn lưu giữ bộ sưu tập có niên đại hơn nửa thế kỷ, trong đó có một tác phẩm nổi bật vào năm 1968 với tựa đề là "Plastik 1" của nghệ sĩ người Đức Georg Nees.
+Nees đã sử dụng sự tính toán ngẫu nhiên (RNG) trên máy tính để tạo ra thiết kế hình học cho tác phẩm điêu khắc của mình.
+Ngày nay, các nghệ sĩ kỹ thuật số được làm việc với siêu máy tính và mạng sáng tạo đối nghịch (GAN) để tạo ra những hình ảnh phức tạp hơn nhiều so với bất cứ điều gì Nees có thể mơ ước.
+GAN là tập hợp các AI cạnh tranh, trong đó một AI tạo ra hình ảnh từ các hướng dẫn mà nó được đưa ra và AI khác hoạt động như một "người gác cổng", đánh giá xem kết quả đầu ra có chính xác hay không. Nếu phát hiện lỗi, nó sẽ gửi lại hình ảnh để chỉnh sửa và AI đầu tiên sẽ hoạt động trở lại trong giây lát, cố gắng đánh bại AI cạnh tranh.
+Mặc dù vậy, các nghệ sĩ như Crespo và Barrat nhấn mạnh rằng 
+"Khi tôi làm việc theo cách này, tôi không tạo ra hình ảnh. Tôi đang tạo ra một hệ thống có thể tạo ra hình ảnh", Barrat giải thích.
+Crespo từng nghĩ rằng cỗ máy AI của mình là một "cộng tác viên" thực sự, nhưng trên thực tế, rất khó để đạt được "dù chỉ một dòng code" để tạo ra kết quả như ý.
+Ngày nay, các công ty công nghệ lớn như Google và Open AI đều đang quảng cáo về giá trị của những công cụ mới mà họ cho rằng sẽ mang lại chủ nghĩa thực tế và sự sáng tạo mà không cần kỹ năng viết code.
+Họ đã thay thế GAN bằng các mô hình AI thân thiện hơn với người dùng được gọi là "máy biến đổi" với khả năng chuyển đổi lời nói hàng ngày thành hình ảnh.
+Trang web của Google Images chứa đầy những hình ảnh sáng tạo, được tạo ra bởi các hướng dẫn như: "Một cây xương rồng nhỏ đội mũ rơm và đeo kính râm trên sa mạc Sahara".
+Open AI tự hào rằng công cụ Dalle-2 của họ có thể đưa ra bất kỳ kịch bản nào theo bất kỳ phong cách nghệ thuật nào, từ các bậc thầy hội họa Flemish cổ xưa đến họa sĩ đương đại lừng danh Andy Warhol.
+Mặc dù sự xuất hiện của AI đã khiến không ít người bị thay thế bởi máy móc trong nhiều lĩnh vực như chăm sóc khách hàng, các nghệ sĩ lại xem sự bùng nổ của trí tuệ nhân tạo như một cơ hội hơn là mối đe dọa.
+Crespo đã dùng thử Dalle-2 và khen ngợi đây là một "cấp độ mới về thế hệ hình ảnh nói chung", mặc dù cô ấy thích vẫn GAN của mình hơn.
+"Tôi thường không cần một mô hình quá chính xác để tạo ra công việc của mình, vì tôi rất thích khi mọi thứ trông vô định và không dễ nhận ra", Crespo chia sẻ.
+Nghệ sĩ Camille Lenglois từ Trung tâm Pompidou của Paris - bộ sưu tập nghệ thuật đương đại lớn nhất châu Âu - cũng bác bỏ mọi ý kiến cho rằng các nghệ sĩ sắp bị máy móc thay thế. Cô nhấn mạnh máy móc chưa có "khả năng sáng tạo và phê bình", đồng thời cho rằng "khả năng tạo ra những hình ảnh chân thực không khiến ai đó trở thành một nghệ sĩ."
+Author: phong trào "nghệ thuật tạo hình AI"
+Source: AFP 

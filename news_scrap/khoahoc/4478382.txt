@@ -1,0 +1,11 @@
+Title: Kỹ sư lái máy bay 8 cánh quạt đi làm
+Keywords: Italy, máy bay, cất hạ cánh thẳng đứng, Công nghệ, Tin
+Description: Nhà đồng sáng lập công ty Thụy Điển Jetson lần đầu tiên đi làm bằng máy bay cá nhân cất hạ cánh thẳng đứng, giúp tiết kiệm 88% thời gian.
+Create at: Thứ ba, 21/6/2022, 11:42 (GMT+7)
+Tomasz Patan, nhà đồng sáng lập kiêm giám đốc kỹ thuật của công ty Thụy Điển Jetson, lái máy bay cá nhân Jetson One từ nhà đến một cơ sở của công ty ở tỉnh Pisa, vùng Tuscany, Italy. Video ghi lại chuyến bay được Jetson công bố trên Youtube hôm 17/6.
+Trong bài đăng dưới video, Jetson giới thiệu đây là "chuyến đi làm đầu tiên trên thế giới bằng phương tiện cất hạ cánh thẳng đứng chạy điện (eVTOL)" và cho biết, cách này giúp giảm thời gian đi làm tới 88%. Máy bay không di chuyển ở khu vực đông dân cư mà chỉ bay qua những bãi cỏ rộng, vườn cây và con đường vắng vẻ.
+Jetson One là phương tiện cất hạ cánh thẳng đứng có 8 cánh quạt, trang bị một ghế ngồi và khung bảo vệ, có sức chở khoảng 100 kg. Pin lithium-ion của nó đủ dùng cho chuyến bay kéo dài 20 phút với tốc độ lên đến 102 km/h. Jetson One có một số chức năng tự động. Khi người lái buông cần điều khiển, máy bay vẫn sẽ lơ lửng tại chỗ hoặc tìm nơi nào đó để hạ cánh nếu pin yếu. Phương tiện này trị giá khoảng 70.000 USD.
+"Ngày 21/5, sau nhiều tháng thử nghiệm nghiêm ngặt, đội ngũ tại Jetson hoàn thành chuyến đi làm đầu tiên bằng eVTOL. Mọi người đã háo hức chờ đợi Jetson One tới đích tại cơ sở Santa Maria a Monte, Tuscany", San Sunner, Trưởng bộ phận Truyền thông của Jetson, cho biết.
+Jetson do Peter Ternström và Tomasz Patan thành lập vào năm 2017. Họ hoàn thành nguyên mẫu thử nghiệm đầu tiên vào năm 2018, sau đó tiếp tục nỗ lực phát triển một phiên bản thân thiện với người dùng. Jetson cho biết, toàn bộ phương tiện sản xuất năm 2022 đã bán hết và hãng này đang nhận đơn đặt hàng cho năm 2023.
+Author: Thu Thảo
+Source:  New Atlas

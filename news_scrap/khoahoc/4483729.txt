@@ -1,0 +1,11 @@
+Title: Cụm động cơ khổng lồ của tên lửa Starship
+Keywords: động cơ, Raptor, tên lửa Starship, SpaceX, Mỹ, Công nghệ, Tin
+Description: SpaceX chia sẻ hình ảnh mới nhất cho thấy công ty sắp hoàn thành lắp đặt 39 động cơ Raptor nâng cấp để đưa tên lửa tái sử dụng hoàn toàn Starship lên quỹ đạo lần đầu tiên.
+Create at: Thứ tư, 6/7/2022, 10:30 (GMT+7)
+Cụm động cơ được lắp đặt trên nguyên mẫu Starship mới mang tên Ship 24 và tên lửa đẩy Super Heavy 7. Nếu những thử nghiệm sắp tới thành công, bộ đôi Starship và Super Heavy sẽ phóng vào quỹ đạo trong mùa hè năm nay.
+Tên lửa đẩy Super Heavy Booster 7 của SpaceX trang bị 33 động cơ Raptor 2 mới đã di chuyển tới bệ phóng lần thứ 3 hôm 23/6 để thử nghiệm. Booster 7 đã hoàn thành 4 thử nghiệm đông lạnh và một thử nghiệm mô phỏng lực đẩy. SpaceX có thể tiến hành thêm một thử nghiệm đổ nhiên liệu (wet dress rehearsal) tương tự NASA thực hiện gần đây với tên lửa Hệ thống phóng không gian (SLS).
+Hôm 3/7, SpaceX chia sẻ ảnh chụp tổ hợp động cơ Raptor gần hoàn thiện trên phiên bản Booster 7 (33 động cơ) và nguyên mẫu Starship S24 (6 động cơ). Ship 24 dường như cũng có khung kim loại mới che phủ phía sau phương tiện, giúp tăng cường bảo vệ đối với nhiệt từ các thử nghiệm trên mặt đất và buổi phóng vào quỹ đạo sắp tới.
+Theo Teslarati, SpaceX đã yêu cầu phong tỏa đường hôm 5 - 7/7 và 11 - 12/7 để chuẩn bị cho buổi phóng. Tháng trước, Elon Musk, giám đốc điều hành SpaceX, thông báo Starship sẽ sẵn sàng phóng trong tháng 7 sau khi được Cục quản lý Hàng không Liên bang Mỹ (FAA) cấp phép.
+Tên lửa Starship cuối cùng có thể cách mạng hóa bay vũ trụ thông qua giảm chi phí phóng liên tiếp nhờ tái sử dụng hoàn toàn. Tên lửa Falcon 9 của SpaceX chỉ tái sử dụng tầng đầu tiên còn tầng thứ hai bốc cháy khi hồi quyển. Theo Musk, động cơ Raptor V2 có chi phí đắt gấp rưỡi so với phiên bản trước đó là V1.5 nhưng cũng mạnh và đáng tin cậy hơn hẳn. SpaceX có thể nâng lực đẩy tối đa của Raptor lên thêm 25%, đạt lực đẩy 230 tấn ở mực nước biển. Trong khi đó, động cơ Raptor V1.5 trên nguyên mẫu Starships SN8-11 và SN15 sản sinh lực đẩy khoảng 185 tấn.
+Author: An Khang
+Source: Interesting Engineering

@@ -1,0 +1,12 @@
+Title: Ý tưởng máy bay không cần động cơ trên sao Hỏa
+Keywords: sao Hỏa, hành tinh đỏ, máy bay sao Hỏa, trực thăng sao Hỏa
+Description: Đại học Arizona của Mỹ đang phát triển một thiết bị bay đầy tham vọng lấy cảm hứng từ chim hải âu để thăm dò sao Hỏa trong tương lai.
+Create at: Thứ bảy, 2/7/2022, 10:21 (GMT+7)
+Trong một báo cáo xuất bản trên tạp chí 
+Thiết bị được kỳ vọng có thể lấp đầy khoảng cách quan sát giữa tàu thăm dò dưới bề mặt và vệ tinh quay xung quanh quỹ đạo, giúp mở ra một kỷ nguyên khám phá mới trên hành tinh đỏ.
+"Vài km đầu tiên phía trên về mặt sao Hỏa là một phạm vi nghiên cứu quan trọng. Đây là nơi tất cả các trao đổi giữa bề mặt và bầu khí quyển xảy ra, nơi bụi được được bốc lên từ bề mặt và bay vào khí quyển, nơi trộn lẫn các khí loãng và là nơi xảy ra sự điều hòa của gió quy mô lớn bởi các luồng khí từ thung lũng núi. Chúng ta hiện không có nhiều dữ liệu về nó", Kling cho biết trong một tuyên bố vào hôm 30/6.
+Về thiết kế sơ bộ, máy bay mà Đại học Arizona đang phát triển chỉ nặng 5 kg nhưng có sải cánh dài tới 3,5 m. Nó được lấy cảm hứng từ những con chim hải âu. Phương tiện có thể gập gọn lại để "đóng gói" trong một vệ tinh nhỏ và được phóng lên sao Hỏa như một phần của sứ mệnh lớn hơn. Khi đến nơi, máy bay sẽ tự động mở ra như giấy gấp origami để đạt kích thước cuối cùng của nó.
+Các nhà nghiên cứu cũng đang xem xét việc đưa vào bầu khí quyển sao Hỏa một quả bóng bay hoặc khí cầu nhỏ, thứ có thể hoạt động như một bến đỗ cho máy bay.
+Hành tinh đỏ có bầu khí quyển mỏng khiến các chuyến bay trở nên khó khăn, nhưng sứ mệnh Ingenuity - trực thăng có động cơ lần đầu cất cánh trên sao Hỏa vào tháng 4/2021 - đã chứng minh rằng con người có thể thực hiện các chuyến bay điều khiển từ xa, sử dụng nguồn cung cấp năng lượng ngay tại đó. Ingenuity chạy bằng năng lượng mặt trời là một cỗ máy đáng kinh ngạc, nhưng nó không thể bay rất xa, rất cao hoặc rất lâu.
+Author: Đoàn Dương
+Source: Aerospace 

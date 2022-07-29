@@ -1,0 +1,15 @@
+Title: Phát động cuộc thi AI dự đoán chất lượng không khí - VnExpress
+Keywords: giải pháp AI, dự đoán chất lượng không khí, cuộc thi, AI4VN, Air quality forecasting challenge, Hoạt động ngành, Tin
+Description: Cuộc thi &quot;Air quality forecasting challenge&quot; được tổ chức để tìm kiếm những giải pháp dự đoán chất lượng không khí dựa trên trí tuệ nhân tạo (AI). - VnExpress
+Create at: Thứ tư, 22/6/2022, 11:19 (GMT+7)
+Cuộc thi do Trung tâm Nghiên cứu Quốc tế về Trí tuệ nhân tạo BKAI, Đại học Bách khoa Hà Nội, phối hợp cùng Bộ Khoa học và Công nghệ, báo VnExpress tổ chức.
+Cuộc thi hướng đến các giải pháp AI dự đoán chất lượng không khí với độ chính xác cao, đồng thời góp phần nâng cao ý thức của người dân đối với môi trường sống xung quanh. Các thí sinh đăng ký tham gia theo hình thức nhóm với tối đa 5 thành viên.
+Các đội tham gia cuộc thi sẽ được sử dụng dữ liệu mô lớn nằm trong khuôn khổ của dự án Fi-Mi do tập đoàn VinIF tài trợ. Thí sinh sẽ được cung cấp 1 tập dữ liệu huấn luyện và 2 tập dữ liệu đánh giá (Public Test và Private Test). Bộ dữ liệu huấn luyện sẽ được cung cấp miễn phí trực tuyến.
+Trên cơ sở dữ liệu và đầu bài đưa ra, các nhóm sẽ xây dựng thuật toán và đề xuất giải pháp. Tiêu chí đánh giá sẽ dựa trên hiệu năng của thuật toán và tính sáng tạo trong giải pháp đề xuất. Căn cứ trên kết quả và chi tiết giải pháp của các đội, Ban giám khảo sẽ đánh giá kết quả cuối cùng để quyết định giải thưởng.
+Cuộc thi sẽ diễn ra từ ngày 15/7 đến hết ngày 31/8 với giai đoạn gồm vòng sơ khảo và chung kết. Tại vòng sơ khảo, các đội sẽ phát triển các giải pháp hướng tới mục tiêu của cuộc thi. Kết quả của các đội được đánh giá tự động trên tập Public Test. Các đội có kết quả tốt nhất vòng sơ khảo sẽ được lựa chọn vào vòng chung kết.
+Ở vòng chung kết, ban tổ chức sẽ công bố tập Private Test để các các nhóm tiếp tục đánh giá hiệu năng của thuật toán. Cuối cùng, 3 đội có kết quả xuất sắc sẽ chuẩn bị slides để trình bài giải pháp trong sự kiện chính của AI4VN, diễn ra vào tháng 9.
+Chủ nhân giải thưởng sẽ nhận được giải tiền mặt với giải nhất trị giá 40 triệu đồng, giải nhì 20 triệu đồng, giải ba 10 triệu đồng, cùng giấy chứng nhận của Ban tổ chức.
+Các nhóm có thể đăng ký tham gia 
+Cuộc thi nằm trong chuỗi các sự kiện của Ngày hội Trí tuệ nhân tạo quốc gia 
+Author: Như Quỳnh
+Source: VnExpress

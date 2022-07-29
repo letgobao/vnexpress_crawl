@@ -1,0 +1,12 @@
+Title: Tàu vũ trụ Mỹ lần đầu nâng trạm ISS thành công
+Keywords: tàu vũ trụ, trạm ISS, Trạm Vũ trụ Quốc tế, quỹ đạo, Northrop Grumman, Cygnus
+Description: Tàu Cygnus-17 của công ty Mỹ Northrop Grumman lần đầu tiên nâng thành công Trạm Vũ trụ Quốc tế (ISS), đưa trạm lên độ cao khoảng 400 km hôm 25/6.
+Create at: Thứ tư, 29/6/2022, 10:47 (GMT+7)
+Sự kiện hôm 25/6 đánh dấu lần đầu tiên tàu Cygnus thực hiện quy trình đầy đủ nhằm nâng trạm ISS. Trước đó, con tàu đã thử nâng trạm hôm 20/6, nhưng thử nghiệm 
+Hôm 25/6, tàu Cygnus-17 đã khai hỏa động cơ để đẩy trạm vũ trụ lên 0,16 km ở điểm xa Trái Đất nhất và 0,8 km ở điểm gần Trái Đất nhất. Các thao tác điều chỉnh quỹ đạo này được thực hiện thường xuyên và cần thiết để chống lại lực kéo mà ISS phải chịu do bay qua lớp khí quyển trên của Trái Đất, khiến trạm dần hạ thấp theo thời gian.
+Tàu Cygnus-17 phóng lên không gian ngày 19/2 từ Cơ sở Bay Wallops của NASA trên đảo Wallops, Virginia, mang theo 3.765 kg gồm các bộ thí nghiệm khoa học, thực phẩm và nhiều hàng hóa khác. Con tàu cập bến trạm ISS hai ngày sau với sự hỗ trợ của cánh tay robot.
+Tàu chở hàng Cygnus có chiều dài 5,1 m và đường kính hơn 3 m. Mỗi chiếc Cygnus có sức chở khoảng 3.000 kg. 18 tàu Cygnus đã được phóng lên không gian từ năm 2013, trong đó có một chuyến bay thất bại năm 2014.
+Northrop Grumman đã thực hiện nhiều cải tiến cho Cygnus kể từ lần phóng đầu tiên cách đây 9 năm, bao gồm cả thêm chức năng nâng trạm ISS. Thành công mới bổ sung một khả năng quan trọng để giúp duy trì và hỗ trợ trạm vũ trụ hoạt động, đồng thời chứng tỏ tính hữu ích lớn của Cygnus với trạm ISS và các sứ mệnh khám phá không gian trong tương lai, theo Steven Krein, phó chủ tịch Bộ phận Vũ trụ Thương mại và Dân dụng của Northrop Grumman.
+Sau khi hoàn thành việc điều chỉnh quỹ đạo cho trạm ISS, tàu Cygnus-17 đã tách khỏi trạm lúc 18h05 hôm 28/6 (giờ Hà Nội). Con tàu sẽ thực hiện thêm một số nhiệm vụ khác, sau đó lao xuống khí quyển Trái Đất và cháy rụi.
+Author: Thu Thảo
+Source: Space

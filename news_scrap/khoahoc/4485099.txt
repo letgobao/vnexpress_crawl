@@ -1,0 +1,11 @@
+Title: Dùng giun để tiêu diệt tế bào ung thư
+Keywords: giun tròn, tế bào ung thư, hydrogel, Nhật Bản
+Description: Nhóm nghiên cứu đến từ Đại học Osaka phát hiện có thể bọc giun trong lớp vỏ hydrogel chứa hợp chất hữu ích như thuốc điều trị ung thư.
+Create at: Thứ sáu, 8/7/2022, 20:00 (GMT+7)
+Các nhà khoa học Nhật Bản sử dụng những con giun cực nhỏ gọi là giun tròn để vận chuyển thuốc tới mục tiêu thông qua vỏ bọc hydrogel. Giun tròn thường sống trong đất hoặc môi trường khác. Trong một số trường hợp, chúng có thể xâm nhập vào cơ thể người. Anisakis simplex, loài giun tròn sống ở biển có thể sinh sống trong cơ thể người khi ăn phải, tỏ ra đặc biệt ưa chuộng tế bào ung thư.
+"Anisakis simplex có thể phát hiện 'mùi' và bám vào tế bào ung thư", Wildan Mubarok, trưởng nhóm nghiên cứu, cho biết. "Điều này khiến chúng tôi tự hỏi liệu có thể sử dụng chúng để vận chuyển trực tiếp thuốc điều trị đến tế bào ung thư bên trong cơ thể người hay không".
+Nhằm tìm hiểu khả năng trên, đầu tiên nhóm nghiên cứu phát triển một hệ thống bọc lớp vỏ hydrogel quanh giun tròn bằng cách nhúng chúng vào hàng loạt dung dịch chứa hóa chất liên kết với nhau, tạo ra lớp phủ dạng gel khắp bề mặt con giun. Về cơ bản, quá trình cho ra đời lớp vỏ dày khoảng 0,01 mm ôm sát cơ thể giun trong 20 phút. Theo Shinji Sakai, đồng tác giả nghiên cứu, lớp vỏ không ảnh hưởng tới khả năng sinh tồn của giun tròn, đủ co giãn để con giun tiếp tục chuyển động, tìm kiếm mùi và tín hiệu hóa học.
+Tiếp theo, các nhà nghiên cứu đưa phân tử hữu dụng vào lớp vỏ và nhận thấy điều này bảo vệ giun tròn trước ánh sáng cực tím hoặc hydrogen peroxide. Hơn nữa, lớp vỏ hydrogel có thể chứa thuốc chống ung thư. Được bảo vệ bởi vỏ hydrogel, giun tròn có thể vận chuyển và cung cấp thuốc tiêu diệt tế bào ung thư trong ống nghiệm.
+Với tính thích ứng cao của lớp vỏ hydro, hệ thống dựa trên giun tròn này hứa hẹn không chỉ đưa thuốc tới tế bào ung thư ở bệnh nhân mà còn có nhiều ứng dụng tiềm năng trong các lĩnh vực khác như đưa vi khuẩn có lợi tới rễ cây.
+Author: An Khang 
+Source: Sci Tech Daily

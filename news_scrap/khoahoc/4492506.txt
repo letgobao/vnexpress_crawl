@@ -1,0 +1,12 @@
+Title: Hàn Quốc phóng tàu vũ trụ đầu tiên đến Mặt Trăng tháng 8
+Keywords: tàu vũ trụ, Hàn Quốc, Mặt Trăng, NASA, Vũ trụ, Tin
+Description: Hàn Quốc sắp trở thành nước thứ 7 trên thế giới phóng tàu thăm dò Mặt Trăng với tàu Danuri, dự kiến bay quanh Mặt Trăng ít nhất một năm.
+Create at: Thứ tư, 27/7/2022, 15:47 (GMT+7)
+Korea Pathfinder Lunar Orbiter (KPLO), tàu quỹ đạo Mặt Trăng đầu tiên của Hàn Quốc, dự kiến phóng lên không gian nhờ tên lửa Falcon 9 của SpaceX từ Căn cứ Lực lượng Không gian Cape Canaveral ở Florida, Mỹ, ngày 2/8.
+Tháng 5 năm nay, KPLO chính thức được đặt tên là Danuri - kết hợp giữa hai từ "Mặt Trăng" và "tận hưởng" trong tiếng Hàn. Nhiệm vụ này được coi là bước đầu tiên trong chương trình không gian sâu của Hàn Quốc, bao gồm việc đưa robot hạ cánh xuống Mặt Trăng năm 2030 và một nhiệm vụ lấy mẫu vật tiểu hành tinh mang về Trái Đất.
+Khối lượng khô của Danuri là 418 kg, phần thân chính rộng 1,82 m, dài 2,14 m và cao 2,29 m. Viện Nghiên cứu Hàng không Vũ trụ Hàn Quốc (KARI) cho biết, Danuri có lợi thế là nhẹ hơn so với tàu quỹ đạo Mặt Trăng của các nước khác, ví dụ Selene của Nhật Bản nặng 1.984 kg hay Tàu quỹ đạo Trinh sát Mặt Trăng (LRO) của Mỹ nặng 1.018 kg.
+Danuri sẽ mang theo tổng cộng 6 công cụ khoa học, 5 trong số đó được phát triển bởi các trường đại học và tổ chức nghiên cứu của Hàn Quốc, công cụ còn lại do NASA cung cấp. 6 công cụ gồm Máy chụp ảnh địa hình Mặt Trăng (LUTI), Camera đo phân cực góc rộng (PolCam), từ kế KMAG, phổ kế tia gamma KGRS, một thiết bị mang tên DTNPL và camera độ nhạy cao ShadowCam của NASA.
+ShadowCam là công cụ do Đại học Bang Arizona và công ty công nghệ Malin Space Science Systems phát triển cho NASA. Công cụ này sẽ chụp ảnh các vùng luôn nằm trong bóng tối của Mặt Trăng bằng cách sử dụng máy ảnh độ phân giải cao, kính viễn vọng và những cảm biến có độ nhạy cao. ShadowCam dự kiến thực hiện công việc này khi bay ở độ cao khoảng 100 km so với bề mặt Mặt Trăng, theo Prasun Mahanti, thành viên nhóm phụ trách ShadowCam tại Đại học Bang Arizona.
+Theo kế hoạch, Danuri sẽ tới Mặt Trăng khoảng giữa tháng 12 do bay theo quỹ đạo tiết kiệm năng lượng gọi là Ballistic Lunar Transfer. Con tàu sẽ bay quanh Mặt Trăng ít nhất một năm. Nhiệm vụ chính của tàu quỹ đạo này là đo lực từ trên bề mặt Mặt Trăng và đánh giá các nguồn tài nguyên như nước dạng băng, uranium, helium-3, silicon, nhôm, cũng như lập bản đồ địa hình để giúp lựa chọn những điểm hạ cánh trong tương lai.
+Author: Thu Thảo
+Source: Space, Korea Herald

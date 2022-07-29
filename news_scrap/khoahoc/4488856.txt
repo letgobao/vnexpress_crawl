@@ -1,0 +1,14 @@
+Title: Phương pháp mới giúp nước sôi nhanh hơn
+Keywords: nước sôi, đun nước, Mỹ, Nghiên cứu, Tin
+Description: Viện Công nghệ Massachusetts thiết kế bề mặt với những vết lõm nhỏ để cố định bong bóng sinh ra khi làm nóng nước, giúp đun sôi hiệu quả hơn. 
+Create at: Thứ ba, 19/7/2022, 00:00 (GMT+7)
+Việc nước sôi nhanh và hiệu quả hơn có thể hữu ích cho nhiều quy trình công nghiệp trong các nhà máy sản xuất điện, hệ thống sản xuất hóa chất và hệ thống làm mát cho thiết bị điện tử nhờ tiết kiệm mức năng lượng sử dụng. Các nhà khoa học tại Viện Công nghệ Massachusetts (MIT) phát triển phương pháp mới giúp hiện thực hóa điều này, theo thông báo của viện hôm 12/7.
+Cụ thể, nhóm chuyên gia tìm ra cách cải thiện đồng thời cả hai thông số then chốt tạo điều kiện thuận lợi cho quá trình sôi là hệ số truyền nhiệt (HTC) và thông lượng nhiệt tới hạn (CHF). Đây là một bước tiến nổi bật vì thường có sự đánh đổi giữa hai thông số - thông số này tốt lên sẽ khiến thông số kia tệ đi.
+"Cả hai thông số đều quan trọng, nhưng việc cải thiện chúng cùng lúc rất khó vì có sự đánh đổi. Nếu có nhiều bong bóng trên bề mặt sôi (bề mặt vật liệu đun nước) thì quá trình sôi rất hiệu quả. Nhưng nếu có quá nhiều bong bóng, chúng có thể hợp nhất với nhau, tạo thành một màng hơi bên trên bề mặt sôi", tiến sĩ Youngsup Song, đồng tác giả nghiên cứu, cho biết.
+Lớp màng này cản trở việc truyền nhiệt từ bề mặt nóng đến nước. "Nếu có hơi ở giữa bề mặt và nước thì sẽ cản trở hiệu quả truyền nhiệt và giảm giá trị CHF", nhóm nghiên cứu cho biết.
+Trong nghiên cứu mới, nhóm nhà khoa học thêm một loạt vết lõm tí hon vào bề mặt vật liệu, kiểm soát cách bong bóng hình thành trên bề mặt đó. Điều này giúp ghim bong bóng vào vị trí các vết lõm một cách hiệu quả, ngăn chúng lan ra tạo thành lớp màng cản nhiệt.
+Sau đó, nhóm chuyên gia căn chỉnh vị trí của vết lõm để tối ưu hóa quá trình này. "Vết lõm siêu nhỏ quyết định vị trí mà bong bóng xuất hiện. Khi chia tách các vết lõm với khoảng cách 2 mm, chúng tôi có thể tách các bong bóng ra và giảm khả năng bong bóng hợp nhất", Song giải thích.
+Phương pháp mới có vẻ rất hứa hẹn, nhưng theo giáo sư kỹ thuật Evelyn Wang tại MIT, đồng tác giả nghiên cứu, nó mới chỉ diễn ra trong phòng thí nghiệm quy mô nhỏ và việc tăng quy mô để ứng dụng thực tế trong các thiết bị hiện đại sẽ khó khăn hơn.
+Hiện tại, nhóm nghiên cứu đang tập trung tìm thêm những biện pháp để tạo ra các loại kết cấu bề mặt dùng được trong thực tế. "Việc chứng minh chúng ta có thể kiểm soát bề mặt để nâng cao hiệu quả là bước đầu tiên. Bước tiếp theo là suy nghĩ về những phương pháp dễ mở rộng quy mô hơn", Wang kết luận.
+Author: Thu Thảo
+Source: Interesting Engineering

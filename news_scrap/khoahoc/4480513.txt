@@ -1,0 +1,14 @@
+Title: Trồng thực phẩm hoàn toàn trong bóng tối
+Keywords: thực phẩm, quang hợp, trồng cây, Mỹ, Công nghệ, Tin
+Description: Các nhà khoa học phát triễn kỹ thuật quang hợp nhân tạo giúp sản xuất một số loại thực phẩm hiệu quả mà không cần ánh sáng mặt trời.
+Create at: Thứ hai, 27/6/2022, 15:16 (GMT+7)
+Quá trình quang hợp sinh học thực chất rất kém hiệu quả, chỉ khoảng 1% năng lượng trong ánh sáng Mặt Trời được chuyển vào cây. Nhóm nhà khoa học tại Đại học California Riverside (UCR) và Đại học Delaware tìm ra một phương pháp giúp loại bỏ nhu cầu quang hợp sinh học, cho phép tạo ra thực phẩm mà không cần nắng thông qua quang hợp nhân tạo. Nghiên cứu mới xuất bản trên tạp chí 
+Nhóm nghiên cứu sử dụng một quy trình điện xúc tác gồm hai bước để chuyển đổi CO2, điện và nước thành axetat - thành phần chính trong giấm. Sau đó, họ cho cây tiêu thụ axetat trong bóng tối để phát triển. Phương pháp mới có thể là một giải pháp sản xuất thực phẩm hữu ích khi đối phó với khủng hoảng khí hậu.
+Các chuyên gia nhấn mạnh rằng phương pháp của họ không cần ánh sáng mặt trời. Tuy nhiên, họ có thể kết hợp phương pháp này với các tấm pin mặt trời và tạo ra lượng điện cần thiết để cung cấp năng lượng cho quá trình điện phân.
+Điều đó sẽ giúp tăng tới 18 lần hiệu suất chuyển đổi ánh nắng thành thực phẩm so với một số loại thực phẩm nhất định. Như vậy, phương pháp mới có thể sử dụng ánh nắng, nhưng không phụ thuộc vào năng lượng của mặt trời mà có thể sử dụng các hình thức phát điện khác.
+Trong quá trình nghiên cứu, nhóm nhà khoa học phát hiện nhiều loại thực phẩm có thể trồng trong bóng tối theo phương pháp mới như tảo lục, nấm men và sợi nấm. Trồng nấm men theo cách này có hiệu quả năng lượng gấp 18 lần so với cách trồng thông thường là chiết xuất đường từ ngô.
+Các nhà nghiên cứu cũng tối ưu hóa máy điện phân để tạo ra mức axetat cao nhất từng ghi nhận đến nay. Bên cạnh đó, họ cũng nhận thấy một số cây trồng, bao gồm đậu đũa, cà chua, lúa, đậu xanh, thuốc lá, đều có tiềm năng mọc được trong bóng tối nhờ sử dụng carbon từ axetat. Thậm chí có khả năng axetat còn giúp nâng cao năng suất cây trồng, nhưng điều này vẫn cần nghiên cứu thêm.
+Nhờ giảm phụ thuộc vào ánh sáng mặt trời trực tiếp, quang hợp nhân tạo sẽ là một giải pháp thay thế quan trọng để trồng thực phẩm trong những năm tới, khi thế giới hứng chịu những tác động tồi tệ của biến đổi khí hậu như hạn hán, lũ lụt và diện tích đất trồng, theo nhóm nghiên cứu.
+"Sử dụng phương pháp quang hợp nhân tạo để sản xuất thực phẩm có thể là một sự thay đổi lớn trong cách cung cấp thức ăn cho con người. Nhờ tăng hiệu quả sản xuất, chúng ta sẽ cần ít đất hơn, giảm bớt tác động của nông nghiệp tới môi trường. Với nông nghiệp trong môi trường phi truyền thống, ví dụ ngoài không gian, hiệu suất năng lượng tăng sẽ giúp cung cấp thức ăn cho nhiều phi hành gia hơn", Robert Jinkerson, thành viên nhóm nghiên cứu, phó giáo sư tại Đại học California Riverside, giải thích.
+Author: Thu Thảo
+Source: Nature Food

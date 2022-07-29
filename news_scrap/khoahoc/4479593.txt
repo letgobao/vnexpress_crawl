@@ -1,0 +1,15 @@
+Title: Pin mới cho phép xe điện chạy 1.000 km với một lần sạc
+Keywords: pin, xe điện, pin xe điện, CATL, xe điện Trung Quốc
+Description: Công ty CATL của Trung Quốc hôm 23/6 cho biết sẽ bắt đầu sản xuất pin thế hệ thứ ba với hiệu suất năng lượng vượt trội vào năm tới.
+Create at: Thứ sáu, 24/6/2022, 14:17 (GMT+7)
+Dòng pin thế hệ mới của CATL - được đặt tên là Qilin (Kỳ lân) theo một sinh vật trong thần thoại Trung Quốc - sẽ có mật độ năng lượng lên tới 255 Wh/kg và mang lại hiệu suất sử dụng khối lượng kỷ lục 72%. Nó đạt mức tích hợp cao nhất cho đến nay trên thế giới, dễ dàng cung cấp phạm vi hoạt động hơn 1.000 km cho phương tiện chỉ trong một lần sạc.
+Với cùng một hệ thống hóa chất và cùng kích thước gói, pin Qilin cung cấp năng lượng nhiều hơn 13% so với pin 4680, đạt được sự cải thiện toàn diện về phạm vi hoạt động, tốc độ sạc, độ an toàn, tuổi thọ và hiệu suất.
+CATL đã tích hợp một tấm làm mát bằng chất lỏng và tấm tản nhiệt vào lớp xen kẽ đàn hồi đa chức năng bên trong pin. Qilin cũng trang bị các cầu nối cỡ micromet bên trong lớp xen kẽ, giúp điều chỉnh linh hoạt các thay đổi bên trong tế bào pin, nhờ đó cải thiện độ tin cậy của pin trong toàn bộ vòng đời của nó.
+Bộ năng lượng tích hợp, bao gồm các tế bào pin và lớp đan xen đàn hồi đa chức năng, tạo nên một cấu trúc chịu tải ổn định hơn vuông góc với hướng lái xe, giúp tăng cường khả năng chống sốc và chống rung của bộ pin.
+Thiết kế chia sẻ đáy khéo léo của Qilin cho phép sắp xếp thông minh các thành phần khác nhau, bao gồm bảo vệ cấu trúc, kết nối điện áp cao và một lỗ thông hơi để thoát nhiệt, tăng thêm 6% dung lượng pin.
+Pin được làm mát nhờ các bộ phận hạ nhiệt bằng chất lỏng đặt giữa các ô liền kề và công nghệ làm mát ô bề mặt lớn tiên phong giúp tăng diện tích truyền nhiệt lên bốn lần, giảm một nửa thời gian kiểm soát nhiệt, hỗ trợ khởi động nóng trong 5 phút và nhanh chóng sạc trong 10 phút.
+Hơn nữa, Qilin đã đạt được độ ổn định và an toàn nhiệt cho tất cả các hệ thống hóa chất, làm cho nó tương thích với các vật liệu có mật độ năng lượng cao hơn.
+Dòng pin thế hệ thứ ba của CATL dự kiến bắt đầu được sản xuất hàng loạt và có mặt trên thị trường vào năm 2023. Công ty công nghệ của Trung Quốc không tiết lộ đã có nhà sản xuất xe điện nào đặt hàng pin Qilin hay chưa.
+Từ tính toán mô phỏng trong thế giới vi mô đến sự tinh giản đầy nghệ thuật bên trong cấu trúc pin, CATL nhấn mạnh luôn tập trung vào sự đổi mới công nghệ, nhằm mục đích thúc đẩy sự phát triển của các phương tiện chạy bằng điện thay cho nhiên liệu hóa thạch.
+Author: Đoàn Dương
+Source: Interesting Engineering/CATL

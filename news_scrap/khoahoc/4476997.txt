@@ -1,0 +1,13 @@
+Title: Trung Quốc thử nghiệm tháp thu nhận điện mặt trời vũ trụ
+Keywords: Trung Quốc, điện mặt trời, Công nghệ, Tin
+Description: Đại học Xidian xây tháp cao 75 m, trang bị ăng-ten và các thiết bị khác để phục vụ cho việc nghiên cứu điện mặt trời ngoài không gian.  
+Create at: Thứ bảy, 18/6/2022, 08:00 (GMT+7)
+Nhóm nhà khoa học tại Đại học Xidian, Tây An, Trung Quốc, thử nghiệm thành công một hệ thống dưới mặt đất phục vụ cho việc nghiên cứu và khai thác điện mặt trời vũ trụ hôm 5/6.
+Vũ trụ sở hữu nhiều lợi thế trong việc sản xuất điện mặt trời như không bị mây che, không có sự thay đổi theo mùa, không vướng khí quyển. Các tấm pin mặt trời có thể hoạt động với hiệu suất tối đa cả ngày lẫn đêm. Theo một số ước tính, việc đặt pin mặt trời trong không gian có thể tạo ra nhiều năng lượng gấp 6-8 lần so với dưới mặt đất.
+Tuy nhiên, việc truyền điện xuống Trái Đất lại không đơn giản. Quỹ đạo địa đồng bộ của vệ tinh nằm ở độ cao khoảng 36.000 km, gần gấp 3 lần đường kính Trái Đất. Đường truyền cộng thêm chi phí đắt đỏ của các vụ phóng vệ tinh khiến việc sản xuất điện mặt trời vũ trụ hiệu quả trở thành vấn đề nan giải.
+Tuy nhiên, thế giới đang rất cần năng lượng sạch và chi phí phóng vệ tinh cũng đang giảm nhờ sự ra đời của tên lửa tái sử dụng và các phương pháp thay thế phóng tên lửa. Vì vậy, nghiên cứu về năng lượng mặt trời vũ trụ vẫn tiếp diễn, tập trung vào việc cải thiện hiệu quả truyền tải điện không dây.
+Hệ thống trong khuôn viên Đại học Xidian gồm một tòa tháp bằng thép cao 75 m và 5 hệ thống con: tập trung omega, chuyển đổi ánh sáng - điện, truyền tải điện, quản lý điện và ăng-ten thu nhận. Phần trên của tháp treo các đĩa đóng vai trò như vệ tinh thay thế, giúp tập trung ánh sáng Mặt Trời, chuyển nó thành năng lượng và truyền xuống mặt đất cho một ăng-ten thu thập.
+Tòa tháp bắt đầu được xây dựng vào năm 2018 dưới sự hướng dẫn của Duan Baoyan, chuyên gia tại Trường Kỹ thuật Cơ điện thuộc Đại học Xidian. Theo Đại học Xidian, hệ thống đã được một nhóm chuyên gia phê duyệt sau khi chứng minh khả năng truyền điện bằng vi sóng qua khoảng cách 55 m.
+Đây là hệ thống đầu tiên trên thế giới có đầy đủ các chức năng của năng lượng Mặt Trời vũ trụ, gồm theo dõi Mặt Trời, tập trung ánh sáng, chuyển đổi ánh sáng thành điện năng, truyền điện ở dạng vi sóng rồi thu nhận bằng một ăng-ten riêng biệt. Hệ thống đang phát triển vượt tiến độ 3 năm.
+Author: Thu Thảo 
+Source: New Atlas

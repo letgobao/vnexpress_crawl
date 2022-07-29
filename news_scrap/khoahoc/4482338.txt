@@ -1,0 +1,14 @@
+Title: Hoàn thành lập bản đồ gần 1/4 đáy đại dương trên Trái Đất
+Keywords: bản đồ, đại dương, dữ liệu, Trái Đất
+Description: Dự án Seabed 2030 thu thập dữ liệu từ các chính phủ, công ty và viện nghiên cứu, đặt mục tiêu lập bản đồ 100% đáy đại dương năm 2030.
+Create at: Thứ bảy, 2/7/2022, 19:26 (GMT+7)
+Khoảng 23,4% đáy biển trên Trái Đất đã được lập bản đồ nhờ dự án quốc tế Seabed 2030, theo Hội nghị Đại dương Liên Hợp Quốc diễn ra tại Lisbon, Bồ Đào Nha từ ngày 27/6 - 1/7. Dự án phụ thuộc nhiều vào sự đóng góp tự nguyện về dữ liệu địa hình đáy đại dương của các chính phủ, công ty, viện nghiên cứu, và là một phần trong dự án lớn hơn mang tên The Ocean Decade của Liên Hợp Quốc.
+Seabed 2030 hy vọng sẽ lập bản đồ 100% đáy đại dương vào năm 2030. Các nhà nghiên cứu cho rằng đây là mục tiêu khả thi nhờ những tiến bộ trong công nghệ và việc thu thập dữ liệu sẵn có. Chỉ trong năm qua, Seabed 2030 đã bổ sung dữ liệu đo đạc của khoảng 9,8 triệu km2 (tương đương kích thước châu Âu) chủ yếu thông qua những kho lưu trữ mới công khai thay vì các nỗ lực lập bản đồ mới.
+Các nhà khoa học tin rằng việc thu thập thêm dữ liệu về địa hình đáy đại dương sẽ giúp con người hiểu hơn về biến đổi khí hậu và các nỗ lực bảo tồn đại dương. Bản đồ đáy đại dương cũng giúp phát hiện sóng thần cũng như những thảm họa thiên nhiên khác.
+"Một bản đồ hoàn chỉnh về đáy đại dương chính là công cụ còn thiếu. Nó sẽ cho phép chúng ta giải quyết một số thách thức môi trường cấp bách nhất trong thời đại này, trong đó có biến đổi khí hậu và ô nhiễm biển, giúp chúng ta bảo vệ tương lai của hành tinh", Mitsuyuki Unno, giám đốc điều hành của tổ chức The Nippon Foundation, Nhật Bản, cho biết.
+Phần lớn dữ liệu dùng cho Seabed 2030 đã có sẵn. Nhóm dự án phụ thuộc nhiều vào sự đóng góp từ các chính phủ và công ty, nhưng một số vẫn e ngại công khai hoàn toàn kho lưu trữ vì sợ lộ bí mật quốc gia hoặc thương mại.
+"Họ thực sự không cần lo lắng. Một trong những thông điệp mà chúng tôi đang cố gắng truyền đạt là chúng tôi không yêu cầu dữ liệu có độ phân giải cao. Độ phân giải cao rất tốt, chúng tôi có thể làm việc với dữ liệu như vậy. Nhưng độ phân giải thấp hơn cũng hoàn toàn chấp nhận được. Giá trị độ sâu trong một khu vực rộng bằng sân bóng châu Âu, 100 m x 100 m hoặc tương đương, sẽ không làm lộ bí mật quốc gia hay thương mại", Jamie McMichael-Phillips, giám đốc Seabed 2030, nói.
+Toàn bộ dữ liệu mà Seabed 2030 đang thu thập sẽ được công khai trực tuyến trên mạng lưới toàn cầu GEBCO. Trước Seabed 2030, rất ít dữ liệu đo đạc trực tiếp đáy đại dương được công khai cho công chúng sử dụng. Hầu hết các phép đo địa hình đáy đại dương được ước lượng nhờ dữ liệu máy đo độ cao của vệ tinh, do đó chỉ mang lại hình dung sơ bộ về hình dạng mặt đáy.
+Một số nhà khoa học tin rằng nỗ lực xác định vị trí vụ tai nạn của chuyến bay MH370 (Malaysia Airlines) sẽ nắm được thông tin tốt hơn nhờ các phương pháp lập bản đồ đáy đại dương mới và chính xác hơn.
+Author: Thu Thảo
+Source: Engadget

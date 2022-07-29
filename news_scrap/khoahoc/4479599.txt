@@ -1,0 +1,13 @@
+Title: Tàu vũ trụ Mỹ thất bại trong thử nghiệm nâng trạm ISS 
+Keywords: tàu vũ trụ, trạm ISS, Trạm Vũ trụ Quốc tế, Vũ trụ, Tin
+Description: Tàu vũ trụ Cygnus-17 khai hỏa động cơ để điều chỉnh quỹ đạo cho trạm ISS nhưng thử nghiệm bị hủy bỏ chỉ sau 5 giây. 
+Create at: Thứ sáu, 24/6/2022, 10:49 (GMT+7)
+22h20 hôm 20/6 (giờ Hà Nội), Cygnus-17 - tàu vũ trụ của công ty Mỹ Northrop Grumman đang ghép nối với Trạm Vũ trụ Quốc tế (ISS), cần khai hỏa động cơ trong 5 phút 1 giây. Thử nghiệm nhằm kiểm tra khả năng dịch chuyển trạm ISS của con tàu. Tuy nhiên, thử nghiệm không diễn ra theo đúng kế hoạch khi việc khai hỏa bị hủy bỏ chỉ sau 5 giây.
+Trạm ISS cần điều chỉnh quỹ đạo thường xuyên nhằm đối phó với lực kéo phải chịu khi bay quanh Trái Đất. Trạm sẽ sử dụng các động cơ của tàu vũ trụ để trở lại độ cao thích hợp.
+Nguyên nhân thử nghiệm bị hủy bỏ chỉ sau 5 giây vẫn chưa được công bố. NASA chưa đưa ra thông tin nào ngoài việc thông báo họ đã nắm được nguyên nhân và đang xem xét.
+NASA và Northrop Grumman đang lên kế hoạch thử nghiệm lại vào ngày 25/6, trước khi tàu Cygnus-17 trở về Trái Đất vào ngày 28/6 tới. Nếu thử nghiệm thứ hai tiếp tục thất bại, các chuyên gia sẽ phải chờ đến chuyến phóng tàu Cygnus tiếp theo lên trạm ISS.
+Hệ thống đẩy của trạm ISS có thể thực hiện những điều chỉnh quỹ đạo nhỏ, nhưng không thể thực hiện những điều chỉnh lớn để nâng trạm lên cao hoặc tránh rác vũ trụ.
+Một 
+SpaceX cũng tình nguyện biến tàu Dragon trở thành giải pháp thay thế nhưng hiện vẫn chưa thử nghiệm. Nếu Cygnus thử nghiệm thành công, đây sẽ là tàu vũ trụ thương mại đầu tiên có thể điều chỉnh quỹ đạo cho trạm ISS.
+Author: Thu Thảo
+Source: IFL Science

@@ -1,0 +1,11 @@
+Title: Tạo thành công độc tố cá nóc sau 100 năm
+Keywords: độc tố thần kinh, cá nóc, tetrodotoxin, Mỹ, Nghiên cứu, Tin
+Description: Độc tố thần kinh tetrodotoxin tổng hợp từ glucose sẽ giúp tạo ra thế hệ thuốc giảm đau mới không gây nghiện.
+Create at: Thứ bảy, 23/7/2022, 11:00 (GMT+7)
+Các nhà nghiên cứu đến từ Đại học New York mô tả quy trình 22 bước giúp tạo ra độc tố tetrodotoxin (TTX) hoạt tính sinh học từ vật liệu có sẵn trong nghiên cứu công bố hôm 21/7 trên tạp chí 
+Phương pháp tổng hợp TTX do nhóm nghiên cứu NYU phát triển bắt đầu với một dẫn xuất glucose, có hiệu suất lên tới 11%. Theo Trauner và cộng sự, phương pháp của họ có thể mở rộng quy mô. Hiện nay, họ đang sử dụng phương pháp để nghiên cứu sâu hơn về các đặc tính làm mất cảm giác đau của độc tố.
+Tetrodotoxin (TTX) là độc tố thần kinh tự nhiên mạnh nhất mà con người từng biết đến. Độc tố này được tiết ra bên trong cơ thể động vật biển như cá nóc, ốc sên, bạch tuộc, sa giông, ếch và giun. Để nghiên cứu và sử dụng hợp chất hóa sinh học này, các nhà khoa học trên khắp thế giới đã tìm cách tổng hợp TTX trong phòng thí nghiệm suốt hơn 100 năm qua.
+Giới nghiên cứu thường xem TTX như một bí ẩn bởi họ không biết chắc động vật như cá nóc sản sinh và lưu trữ độc tố trong cơ thể như thế nào. Là độc tố thần kinh gây tê liệt mạnh, TTX có thể chặn kênh dẫn truyền natri ở màng tế bào thần kinh và tín hiệu bên trong mạch thần kinh. Nhà khoa học người Nhật Bản, tiến sĩ Yoshizumi Tahara, cô lập TTX lần đầu tiên năm 1894. Tuy nhiên, các nhà hóa sinh học rất khó tạo ra TTX nguyên chất rất khó khăn do cấu trúc cực kỳ phức tạp và tính kém ổn định về mặt hóa học của độc tố. Dù trước đây, giới nghiên cứu từng tổng hợp TTX nhưng phần lớn sản phẩm đều kém ổn định hoặc không hiệu quả.
+Khả năng chặn kênh natri của TTX có thể giúp tạo ra một nhóm thuốc giảm đau mới hữu hiệu. "Tetrodotoxin có đặc tính chặn tín hiệu thần kinh. Tín hiệu thần kinh liên quan chặt chẽ tới cảm giác đau. Do đó, tetrodotoxin là hợp chất đầy hứa hẹn nhằm phát triển thế hệ thuốc giảm đau mới không gây nghiện", Trauner nói.
+Author: An Khang
+Source: Science

@@ -1,0 +1,12 @@
+Title: Trung Quốc xây máy dò neutrino dưới độ sâu 700 m
+Keywords: neutrino, hạt ma, máy dò neutrino, đài quan sát neutrino
+Description: Trung Quốc hôm 24/6 đã hoàn thành cấu trúc chính của Đài quan sát Neutrino dưới lòng đất Giang Môn (JUNO) ở tỉnh Quảng Đông, miền nam nước này.
+Create at: Chủ nhật, 26/6/2022, 12:43 (GMT+7)
+Cấu trúc chính bao gồm một lưới thép không gỉ hình cầu khổng lồ sẽ hỗ trợ thiết bị cốt lõi của JUNO - một máy dò hình cầu cao tương đương tòa nhà 13 tầng, được bao phủ bởi 20.000 ống nhân quang phát hiện ánh sáng và chứa đầy 20.000 tấn chất lỏng có công thức đặc biệt.
+Toàn bộ cấu trúc được xây dựng ở trung tâm của một bể nước nằm dưới một hang động lớn ở thành phố Giang Môn. Các kỹ sư sẽ sử dụng một bệ nâng để lắp đặt quả cầu acrylic theo từng lớp từ trên xuống dưới bên trong lưới thép. Đồng thời, các ống nhân quang và các bộ phận khác cũng sẽ được gắn vào lưới thép. Sau khi hoàn thành, quả cầu acrylic sẽ được lấp đầy bằng chất lỏng có khả năng phát sáng nhấp nháy, trong khi bể nước sẽ bao phủ toàn bộ máy dò để bảo vệ nó khỏi phóng xạ tự nhiên của các tảng đá xung quanh.
+Neutrino, còn được ví như "hạt ma", là loại hạt sơ cấp có khối lượng cực nhỏ, đến mức từng được cho là không có khối lượng. Nó là hạt tồn tại nhiều thứ hai trong vũ trụ sau hạt ánh sáng (photon).
+Khi neutrino đi qua máy dò, một phần rất nhỏ trong số chúng sẽ tương tác với chất lỏng, tạo ra ánh sáng nhấp nháy được các ống nhân quang phát hiện dưới dạng tín hiệu neutrino để tính toán và nghiên cứu thêm. Bên cạnh neutrino từ lò phản ứng hạt nhân, JUNO cũng có thể nghiên cứu neutrino từ siêu tân tinh, Mặt Trời, Trái Đất và bầu khí quyển của chúng ta.
+Đài quan sát JUNO được vận hành bởi Viện Vật lý Năng lượng Cao thuộc Viện Hàn lâm Khoa học Trung Quốc. Nguồn cấp năng lượng cho nó đến từ các nhà máy điện hạt nhân Yangjiang và Taishan, cả hai đều cách đó hơn 50 km.
+Máy dò hạt ma trị giá tới 305,3 triệu USD này dự kiến được hoàn thành và đưa vào sử dụng vào năm 2023, trở thành cơ sở thí nghiệm neutrino có quy mô lớn thứ hai tại Trung Quốc. Nó được thiết kế để phát hiện và đo lường chất lượng của hạt neutrino với độ chính xác và độ phân giải chưa từng có, giúp các nhà khoa học hiểu rõ hơn về khối lượng của chúng, cách chúng có thể thay đổi nhận dạng giữa chừng trong quá trình dao động và giải quyết nhiều bí ẩn về loại hạt cơ bản nhưng rất khó nắm bắt này.
+Author: Đoàn Dương
+Source: CGTN

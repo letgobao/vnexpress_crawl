@@ -1,0 +1,12 @@
+Title: Nga chế tạo siêu vận tải cơ tốc độ 850 km/h
+Keywords: vận tải cơ, An-124, Elephant, Công nghệ, Tin
+Description: Mẫu máy bay Elephant kế nhiệm vận tải cơ huyền thoại An-124 có thể chở 180 tấn hàng với tầm bay 7.000 km.
+Create at: Thứ hai, 18/7/2022, 19:00 (GMT+7)
+Các nhà nghiên cứu ở Viện thủy khí động học trung ương Nga (TsAGI) đang tìm cách cải tiến thiết kế khí động của phiên bản kế nhiệm máy bay chở hàng An-124, theo thông cáo báo chí hôm 7/7 của cơ quan này. Máy bay vận chuyển hạng nặng mới có biệt danh Elephant.
+Antonov An-124 là máy bay chở hàng lớn thứ hai trên thế giới, chỉ xếp sau mẫu An-225 bị phá hủy gần đây trong cuộc chiến ở Ukraine. An-225 và An-124 có cùng nhà thiết kế chính nhưng An-225 sử dụng 6 động cơ để tạo ra lực nâng trong khi An-124 trang bị 4 động cơ.
+Với ước tính 55 máy bay đã được sản xuất, An-124 là máy bay vận tải quân sự lớn nhất đang hoạt động. Trước năm 2014, Nga và Ukraine lên kế hoạch cùng phát triển mẫu máy bay. Tuy nhiên, sau khi chương trình hợp tác bị hủy bỏ, TsAGI phụ trách phát triển phiên bản kế nhiệm máy bay An-124 được giới thiệu lần đầu vào năm 1986.
+Theo TsAGI, trước đây, Nga từng tiến hành hai vòng nghiên cứu để cải tiến đặc điểm khí động của An-124 ở những tốc độ bay khác nhau nhằm xác định các khu vực có thể tối ưu hóa. Dựa trên kết quả kiểm tra, nhóm nghiên cứu đã điều chỉnh thiết kế bao gồm phần thân với tiết diện lớn hơn, cho phép chở khối hàng nặng hơn và thay đổi phần đầu cánh.
+Một điều chỉnh quan trọng khác là nâng cấp vỏ động cơ để chứa động cơ phản lực PD-35. Các nhà nghiên cứu hướng đến tạo ra một phiên bản cao cấp hơn An-124, có thể chở 180 tấn hàng so với mức 120 tấn hiện nay. Ngoài ra, phiên bản mới sẽ có tầm bay dự kiến 7.000 km và tốc độ tối đa 850 km/h. Hiện nay, nhóm nghiên cứu của TsAGI vẫn đang tìm cách cải tiến thiết kế. Trọng tâm của dự án là phần đầu cánh có thể thay đổi để phù hợp nhiều cấu hình khác nhau.
+"Máy bay Elephant chủ yếu được tối ưu hóa cho ứng dụng dân sự", Alexander Krutov, nhà nghiên cứu ở TsAGI, cho biết. "Nhờ phần thân lớn hơn, chúng tôi có thể mang đến cho khách hàng lượng hàng hóa vận chuyển lớn theo tầm hoạt động và đầu cánh điều chỉnh sẽ cung cấp chất lượng khí động cao". Mẫu máy bay đang được phát triển sẽ trải qua thử nghiệm trong đường hầm gió vào cuối năm 2022.
+Author: An Khang
+Source: Interesting Engineering

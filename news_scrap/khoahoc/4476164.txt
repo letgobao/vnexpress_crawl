@@ -1,0 +1,15 @@
+Title: Thiết kế bắt chước cánh bướm đêm giúp giảm tiếng ồn
+Keywords: bướm đêm, âm thanh, dơi, tiếng ồn, Anh, Nghiên cứu, Tin
+Description: Vảy hấp thụ âm thanh trên cánh bướm đêm, vũ khí chống lại khả năng định vị bằng tiếng vang của dơi, tạo cảm hứng chế tạo vật liệu mới.
+Create at: Thứ tư, 15/6/2022, 20:00 (GMT+7)
+Nhóm chuyên gia tại Đại học Bristol phát hiện, những chiếc vảy trên cánh bướm đêm có tác dụng như thiết bị hấp thụ âm thanh hiệu quả kể cả khi đặt trên bề mặt nhân tạo, 
+Dơi và bướm đêm đã tham gia vào "cuộc chạy đua vũ trang" về âm thanh giữa kẻ đi săn và con mồi khoảng 65 triệu năm trước, khi dơi tiến hóa khả năng định vị bằng tiếng vang. Bướm đêm chịu áp lực săn mồi khổng lồ từ dơi và phát triển rất nhiều cách phòng thủ để sinh tồn. Những chiếc vảy trên cánh của chúng là chìa khóa để khử tiếng ồn.
+"Điều chúng tôi cần biết trước tiên là vảy cánh bướm đêm sẽ hiệu quả như thế nào nếu đặt chúng trước một bề mặt phản xạ âm thanh cao, ví dụ như bức tường. Chúng tôi cũng cần tìm hiểu xem cơ chế hấp thụ thay đổi như thế nào khi các vảy tương tác với bề mặt này", Marc Holderied, giáo sư tại Trường Khoa học Sinh học thuộc Đại học Bristol, cho biết.
+Giáo sư Holderied cùng cộng sự đặt những mảnh cánh bướm đêm nhỏ trên một chiếc đĩa nhôm, sau đó kiểm tra cách định hướng của cánh đối với âm thanh truyền đến và việc loại bỏ các lớp vảy ảnh hưởng đến sự hấp thụ như thế nào.
+Kết quả, họ phát hiện rằng cánh bướm đêm là bộ hấp thụ âm thanh rất tốt, kể cả khi đặt trên một chất nền rắn, nó vẫn có thể hấp thụ tới 87% năng lượng âm thanh truyền đến. Khả năng này cũng rất rộng và đa hướng, bao phủ một loạt các tần số và góc tới của âm thanh.
+"Ấn tượng hơn nữa là cánh bướm đêm làm được như vậy dù cực kỳ mỏng, lớp vảy chỉ bằng 1/50 độ dày của bước sóng âm thanh mà chúng hấp thụ. Hiệu suất phi thường này cho thấy cánh bướm đêm là 'siêu bề mặt' (vật liệu có những đặc tính và khả năng độc đáo, không thể tạo ra bằng các vật liệu truyền thống) hấp thụ âm thanh trong tự nhiên", tiến sĩ Thomas Neil, tác giả chính của nghiên cứu, giải thích.
+Khả năng tạo ra các tấm hấp thụ âm thanh siêu mỏng có ý nghĩa rất lớn. Khi các thành phố ngày càng ồn ào hơn, nhu cầu về giải pháp giảm ồn hiệu quả và không xâm lấn tăng lên. Những tấm hấp thụ âm thanh mỏng nhẹ cũng có thể ảnh hưởng lớn đến ngành du lịch nhờ giảm trọng lượng cho máy bay, ôtô, tàu hỏa, giúp tăng hiệu quả cho các phương thức vận tải này, đồng thời giảm sử dụng nhiên liệu và giảm thải CO2.
+Nhóm nhà khoa học dự định thiết kế và chế tạo các nguyên mẫu vật liệu dựa trên cơ chế hấp thụ âm thanh của bướm đêm. Sự hấp thụ ở vảy cánh bướm đêm đều nằm trong dải tần số siêu âm. Thách thức tiếp theo là thiết kế một cấu trúc hoạt động được ở tần số thấp hơn trong khi vẫn giữ nguyên kết cấu siêu mỏng như cánh bướm đêm.
+"Bướm đêm truyền cảm hứng cho các vật liệu hấp thụ âm thanh mới. Nghiên cứu mới chỉ ra rằng một ngày nào đó, bạn có thể tô điểm cho ngôi nhà của mình bằng giấy dán tường siêu mỏng hấp thụ âm thanh, sử dụng thiết kế bắt chước cách bướm đêm 'ngụy trang' trước khả năng định vị bằng tiếng vang", Holderied kết luận.
+Author: Thu Thảo
+Source: Phys

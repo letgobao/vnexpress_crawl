@@ -1,0 +1,13 @@
+Title: Pin sạc đầy 98% trong dưới 10 phút 
+Keywords: Mỹ, pin, xe điện, lithium-ion, Công nghệ, Tin
+Description: Startup Mỹ phát triển loại pin lithium-ion mới với khả năng sạc nhanh và tuổi thọ dài, giữ được 93% dung lượng sau 1.000 chu kỳ nạp - xả.
+Create at: Thứ năm, 16/6/2022, 00:00 (GMT+7)
+Nhắc đến xe điện, mọi người thường quan tâm nhiều đến quãng đường đi được sau mỗi lần sạc và thời gian cần thiết để sạc đầy pin. Startup Mỹ Enovix phát triển loại pin mới giúp giải quyết mối lo ngại về thời gian sạc. Enovix hôm 13/6 thông báo, các tế bào pin thử nghiệm cho xe điện 0,27 Ah của hãng có thể sạc từ 0% lên 80% trong 5,2 phút và đạt hơn 98% trong chưa đầy 10 phút.
+Thời gian sạc ngắn có thể giúp đẩy nhanh việc phổ biến xe điện, theo Harrold Rust, nhà đồng sáng lập kiêm CEO của Enovix.
+"Các nhà sản xuất xe điện đang hướng đến những loại pin hỗ trợ phạm vi hoạt động dài hơn. Trong khi đó, các khu vực công và tư nhân nỗ lực giúp tài xế xe điện tiếp cận bộ sạc nhanh dễ dàng hơn. Chúng tôi tự hào khi hỗ trợ những mục tiêu này để giúp điện hóa ngành công nghiệp ôtô và chứng minh pin của chúng tôi là một lựa chọn thú vị để trang bị cho những chiếc xe điện có tốc độ sạc nhanh và phạm vi chạy dài", Rust nói.
+"Cấu trúc độc đáo mà chúng tôi phát triển không chỉ cho phép pin sạc trong chưa đầy 10 phút mà còn có tuổi thọ cao tính theo chu kỳ nạp - xả", Ashok Lahiri, đồng sáng lập Enovix, cho biết.
+Theo Enovix, các tế bào pin của hãng vượt qua 1.000 chu kỳ mà vẫn giữ được 93% dung lượng. Các thử nghiệm cũng chứng minh rằng sau 6 tháng ở nhiệt độ cao, pin Enovix chỉ giảm một phần nhỏ dung lượng. Điều này cho thấy tuổi thọ sử dụng của pin có thể lên đến hơn 10 năm.
+Pin lithium-ion silicon của Enovix sở hữu cấu trúc 3D độc quyền. Các tế bào pin có cực anode bằng silicon, về mặt lý thuyết có thể lưu trữ lượng lithium nhiều gấp đôi so với cực anode bằng than chì được dùng trong đa số các pin lithium-ion. Cấu trúc tế bào pin 3D của Enovix cũng giúp tăng mật độ năng lượng và duy trì tuổi thọ dài.
+Enovix đang phát triển công nghệ của mình thông qua một chương trình tài trợ từ Bộ Năng lượng Mỹ. Công ty này hy vọng có thể cung cấp một giải pháp hiệu quả không chỉ cho xe điện mà còn cho những mục đích lưu trữ năng lượng khác.
+Author: Thu Thảo 
+Source:  Interesting Engineering
